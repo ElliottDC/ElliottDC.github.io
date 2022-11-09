@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -7,7 +6,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
     <!-- Title for the page -->
     <title>Document</title>
 
@@ -26,29 +25,84 @@
     <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
     <div class="myWeek1">
         <h1>Data Science for Economists.</h1>
-        
-        <h3>Inflation UK</h3>
-        <p>the third chart tracks Inflation in the UK Across time</p>
-        <div class="chart" id="Chart3"></div>
 
+        <h2> Week 1</h2>
+
+        <h3>Inflation in the UK</h3>
+        <p>The first chart tracks Inflation in the UK Across time</p>
+        <div class="chart" id="Chart3"></div>
         <h3>GDP in the UK</h3>
         <p>This chart looks at GDP in the UK across time</p>
         <div class="chart" id="Chart4"></div>
-    </div> 
-</body>
 
+
+    </div>
+    <div class="myWeek2">
+        <h1>Data Science for Economists.</h1>
+
+        <h2> Week 2</h2>
+
+        <h3>IMF lending outstanding </h3>
+        <p>This chart shows outstanding debt to the IMF across all countries </p>
+        <div class="chart" id="Chart5"></div>
+        <h3>IMF Loans outstanding in current prices</h3>
+        <p>This chart shows the current debt to the IMF acorss all countries converted into a % of world GDP in each year</p>
+        <div class="chart" id="Chart6"></div>
+
+
+    </div>
+
+    <div class="myWeek3">
+        <h1>Data Science for Economists.</h1>
+
+        <h2> Week 3</h2>
+
+        <h3>United Kingdom housing prices</h3>
+        <p>This chart shows the United kingdoms average housing prices from January 2002 until August 2022. </p>
+        <div class="chart" id="Chart7"></div>
+        <h3> United Kingdom housing prices</h3>
+        <p> This chart also shows the average house price in the United kingdom </p>
+        <div class="chart" id="Chart8"></div>
+
+
+    </div>
+
+    <div class="myWeek4">
+        <h1>Data Science for Economists.</h1>
+
+        <h2> Week 4</h2>
+
+        <h3></h3>
+        <p> </p>
+        <div ></div>
+        <h3> </h3>
+        <p> </p>
+        <div ></div>
+
+
+    </div>
+
+</body>
 
 <script>
     //Define charts:
     var myChart3 = "chart3_InflationUK.json";
     var myChart4 = "chart4_GDPUK.json"
+    var myChart5 = "Chart5_IMFoutstandingloan.json"
+    var myChart6 = "Chart6_IMFupdated.json"
+    var myChart7 = "Chart7_yields_.json"
+    var myChart8 = "Chart8_HPI.json"
 
     // Embed charts:
 
     vegaEmbed('#Chart3', myChart3);
     vegaEmbed('#Chart4', myChart4);
+    vegaEmbed('#Chart5', myChart5);
+    vegaEmbed('#Chart6', myChart6);
+    vegaEmbed('#Chart7', myChart7);
+    vegaEmbed('#Chart8', myChart8);
 </script>
 
 </html>
 
-
+git commit 
