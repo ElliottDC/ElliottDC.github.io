@@ -9,8 +9,9 @@
     "color": "#000000",
     "subtitleColor":"#000000"},
 
-  "width":390,
-  "height":290,
+  "width":380,
+  "height":300,
+
 
   "config": {
     "background":"#ffffff",
