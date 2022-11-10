@@ -1,0 +1,78 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Stock prices of 5 Tech Companies over Time.",
+  
+  
+  
+    "data": {"url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/mortgage_rate_02.csv"},
+    
+    
+    "height": 300,
+    "width": 380,
+
+    "title": {
+      "text": "2 year fixed mortgage rates",
+      "subtitle": "The changing mortgage rates in the United kingdom and the effect of the Loan to value ratio.",
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"},
+      
+    "mark": {"type": "line",
+        "point": true
+  },
+    "encoding": {
+      "x": {
+        "field": "Date",
+        "type": "temporal",
+        "title": null,
+        "axis": {"grid": false, "labelAngle": 0}
+        
+      },
+      "y": {
+        "field": "value",
+        "type": "quantitative",
+        "title": null,
+        "scale": {"domain": [0, 7]},
+        "axis": {
+          "grid": true,
+          "labelFontSize": 12,
+          "title": "%",
+          "titleAlign": "left",
+          "titleAngle": 0,
+          "titleBaseline": "bottom",
+          "titleColor": "#676A86",
+          "titleFontSize": 10,
+          "titleX": 5,
+          "titleY": 15
+        }
+      },
+      "color": {
+        "field": "Metric",
+        "type": "nominal",
+        "sort": [],
+        "title": null,
+        "scale": { "scheme":"accent"
+       
+        },
+        "legend": {"orient": "bottom", "labelFontSize": 11}
+      },
+      "tooltip": [
+        {
+          "field": "Date",
+          "type": "temporal",
+          "title": "Date"
+        
+        },
+        {"field": "Metric", "type": "nominal", "title": "loan to value ratio"},
+        {
+          "field": "value",
+          "type": "quantitative",
+          "title": "2 year fixed mortgage rate"
+        }
+      ]
+    },
+    "autosize": {"type": "pad", "contains": "padding", "resize": true}
+  }
+  
+  
