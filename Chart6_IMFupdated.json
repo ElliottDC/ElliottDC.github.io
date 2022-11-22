@@ -11,7 +11,7 @@
   "data":{"url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/data_IMF_creditOutstanding2.csv"},
   
   "height": 300,
-  "width": 300,
+  "width": 380,
 
   "mark": {
     "type": "bar",

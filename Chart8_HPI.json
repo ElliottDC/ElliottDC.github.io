@@ -19,9 +19,10 @@
 
     "mark": { 
       "type":"line",
+  
     "interpolate":"monotone",
-    "color": "1435f3"
-    },
+    "color": "#1435f3"},
+  
     "encoding": {
       "x": {"field": "Date", "type": "temporal", "axis": {"labelAngle": 0}},
       "y": {"field": "Average price All property types", "type": "quantitative"}
