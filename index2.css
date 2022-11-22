@@ -68,7 +68,7 @@ h1,h2, h3, p{
 }
 
 .myWeek5{
-    margin: auto;
+    margin:auto;
     max-width: 600px;
     background-color: rgb(249, 250, 251);
     border-width: 3px;
@@ -95,17 +95,12 @@ h1,h2, h3, p{
 
 .chart2{
     background-color: rgb(255, 255, 255);
-    align-items: center;
-    justify-content: left;
     width: 310px;
     border-width: 2px;
     border-style: solid;
-    display: flex;
     border-radius: 10px;
     border-color: grey;
-    margin: 0px;
-
-
+    margin:10px;
 
 }
     
