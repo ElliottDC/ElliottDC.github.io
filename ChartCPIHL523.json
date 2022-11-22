@@ -1,0 +1,39 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+        "text": "CPIH L523",
+        "subtitle":"CPIH for Food and Non-Alcoholic beverages: (L523) 1988-2021",
+        "subtitleFontStyle":"italic",
+        "subtitleFontSize":10,
+        "anchor": "start",
+        "color": "black"},
+        "height": 200,
+        "width": 250,
+    
+    
+    
+    
+    "description": "CPIH division L523 .",
+    "data": {"url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/data_ONS-L523.json", "format": {"type": "json", "property": "years"}
+    
+
+    
+    },
+    "mark":{
+     "type":"line",
+    "color": "#1435f3"},
+
+    "encoding": {
+      "x": {"field": "date", "type": "temporal",
+      "axis": {
+        "title": "Year"}},
+
+      "y": {"field": "value", "type": "quantitative",
+      "axis":{
+        "title":"Index Value"
+      }
+    
+    }
+    }
+  }
+  
