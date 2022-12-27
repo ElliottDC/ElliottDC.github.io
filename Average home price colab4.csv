@@ -1,0 +1,505 @@
+,Region,Average Home Price,Year
+3,United Kingdom,"36,000",1986
+4,United Kingdom,"40,000",1987
+5,United Kingdom,"49,000",1988
+6,United Kingdom,"55,000",1989
+7,United Kingdom,"60,000",1990
+8,United Kingdom,"62,000",1991
+9,United Kingdom,"61,000",1992
+10,United Kingdom,"62,000",1993
+11,United Kingdom,"65,000",1994
+12,United Kingdom,"66,000",1995
+13,United Kingdom,"71,000",1996
+14,United Kingdom,"76,000",1997
+15,United Kingdom,"82,000",1998
+16,United Kingdom,"93,000",1999
+17,United Kingdom,"102,000",2000
+18,United Kingdom,"113,000",2001
+19,United Kingdom,"128,000",2002
+20,United Kingdom,"156,000",2003
+21,United Kingdom,"180,000",2004
+22,United Kingdom,"191,000",2005
+23,United Kingdom,"205,000",2006
+24,United Kingdom,"223,000",2007
+25,United Kingdom,"228,000",2008
+26,United Kingdom,"226,000",2009
+27,United Kingdom,"251,000",2010
+28,United Kingdom,"245,000",2011
+29,United Kingdom,"246,000",2012
+30,United Kingdom,"251,000",2013
+31,United Kingdom,"267,000",2014
+32,United Kingdom,"277,000",2015
+33,United Kingdom,"283,000",2016
+34,United Kingdom,"280,000",2017
+35,United Kingdom,"283,000",2018
+36,United Kingdom,"282,000",2019
+37,United Kingdom,"303,000",2020
+38,United Kingdom,"324,000",2021
+42,England,"38,000",1986
+43,England,"42,000",1987
+44,England,"52,000",1988
+45,England,"58,000",1989
+46,England,"63,000",1990
+47,England,"65,000",1991
+48,England,"64,000",1992
+49,England,"65,000",1993
+50,England,"68,000",1994
+51,England,"68,000",1995
+52,England,"72,000",1996
+53,England,"79,000",1997
+54,England,"85,000",1998
+55,England,"96,000",1999
+56,England,"107,000",2000
+57,England,"120,000",2001
+58,England,"137,000",2002
+59,England,"167,000",2003
+60,England,"192,000",2004
+61,England,"202,000",2005
+62,England,"214,000",2006
+63,England,"232,000",2007
+64,England,"237,000",2008
+65,England,"234,000",2009
+66,England,"261,000",2010
+67,England,"256,000",2011
+68,England,"256,000",2012
+69,England,"261,000",2013
+70,England,"278,000",2014
+71,England,"291,000",2015
+72,England,"298,000",2016
+73,England,"298,000",2017
+74,England,"300,000",2018
+75,England,"300,000",2019
+76,England,"321,000",2020
+77,England,"342,000",2021
+81,North East,"24,000",1986
+82,North East,"27,000",1987
+83,North East,"30,000",1988
+84,North East,"36,000",1989
+85,North East,"41,000",1990
+86,North East,"45,000",1991
+87,North East,"47,000",1992
+88,North East,"49,000",1993
+89,North East,"49,000",1994
+90,North East,"47,000",1995
+91,North East,"51,000",1996
+92,North East,"53,000",1997
+93,North East,"56,000",1998
+94,North East,"62,000",1999
+95,North East,"64,000",2000
+96,North East,"70,000",2001
+97,North East,"79,000",2002
+98,North East,"100,000",2003
+99,North East,"127,000",2004
+100,North East,"135,000",2005
+101,North East,"141,000",2006
+102,North East,"152,000",2007
+103,North East,"159,000",2008
+104,North East,"157,000",2009
+105,North East,"162,000",2010
+106,North East,"153,000",2011
+107,North East,"153,000",2012
+108,North East,"154,000",2013
+109,North East,"162,000",2014
+110,North East,"168,000",2015
+111,North East,"169,000",2016
+112,North East,"168,000",2017
+113,North East,"169,000",2018
+114,North East,"171,000",2019
+115,North East,"180,000",2020
+116,North East,"192,000",2021
+120,North West,"28,000",1986
+121,North West,"30,000",1987
+122,North West,"34,000",1988
+123,North West,"42,000",1989
+124,North West,"50,000",1990
+125,North West,"53,000",1991
+126,North West,"56,000",1992
+127,North West,"56,000",1993
+128,North West,"57,000",1994
+129,North West,"56,000",1995
+130,North West,"58,000",1996
+131,North West,"63,000",1997
+132,North West,"66,000",1998
+133,North West,"72,000",1999
+134,North West,"78,000",2000
+135,North West,"82,000",2001
+136,North West,"92,000",2002
+137,North West,"115,000",2003
+138,North West,"139,000",2004
+139,North West,"149,000",2005
+140,North West,"158,000",2006
+141,North West,"170,000",2007
+142,North West,"175,000",2008
+143,North West,"174,000",2009
+144,North West,"183,000",2010
+145,North West,"175,000",2011
+146,North West,"174,000",2012
+147,North West,"175,000",2013
+148,North West,"184,000",2014
+149,North West,"192,000",2015
+150,North West,"197,000",2016
+151,North West,"198,000",2017
+152,North West,"202,000",2018
+153,North West,"205,000",2019
+154,North West,"217,000",2020
+155,North West,"237,000",2021
+159,Yorkshire and The Humber,"26,000",1986
+160,Yorkshire and The Humber,"28,000",1987
+161,Yorkshire and The Humber,"33,000",1988
+162,Yorkshire and The Humber,"42,000",1989
+163,Yorkshire and The Humber,"47,000",1990
+164,Yorkshire and The Humber,"52,000",1991
+165,Yorkshire and The Humber,"52,000",1992
+166,Yorkshire and The Humber,"55,000",1993
+167,Yorkshire and The Humber,"54,000",1994
+168,Yorkshire and The Humber,"54,000",1995
+169,Yorkshire and The Humber,"56,000",1996
+170,Yorkshire and The Humber,"60,000",1997
+171,Yorkshire and The Humber,"62,000",1998
+172,Yorkshire and The Humber,"67,000",1999
+173,Yorkshire and The Humber,"72,000",2000
+174,Yorkshire and The Humber,"76,000",2001
+175,Yorkshire and The Humber,"88,000",2002
+176,Yorkshire and The Humber,"114,000",2003
+177,Yorkshire and The Humber,"137,000",2004
+178,Yorkshire and The Humber,"148,000",2005
+179,Yorkshire and The Humber,"158,000",2006
+180,Yorkshire and The Humber,"170,000",2007
+181,Yorkshire and The Humber,"173,000",2008
+182,Yorkshire and The Humber,"176,000",2009
+183,Yorkshire and The Humber,"182,000",2010
+184,Yorkshire and The Humber,"171,000",2011
+185,Yorkshire and The Humber,"171,000",2012
+186,Yorkshire and The Humber,"172,000",2013
+187,Yorkshire and The Humber,"182,000",2014
+188,Yorkshire and The Humber,"188,000",2015
+189,Yorkshire and The Humber,"192,000",2016
+190,Yorkshire and The Humber,"192,000",2017
+191,Yorkshire and The Humber,"196,000",2018
+192,Yorkshire and The Humber,"199,000",2019
+193,Yorkshire and The Humber,"210,000",2020
+194,Yorkshire and The Humber,"228,000",2021
+198,East Midlands,"28,000",1986
+199,East Midlands,"32,000",1987
+200,East Midlands,"41,000",1988
+201,East Midlands,"49,000",1989
+202,East Midlands,"53,000",1990
+203,East Midlands,"56,000",1991
+204,East Midlands,"55,000",1992
+205,East Midlands,"54,000",1993
+206,East Midlands,"55,000",1994
+207,East Midlands,"55,000",1995
+208,East Midlands,"59,000",1996
+209,East Midlands,"62,000",1997
+210,East Midlands,"66,000",1998
+211,East Midlands,"72,000",1999
+212,East Midlands,"79,000",2000
+213,East Midlands,"87,000",2001
+214,East Midlands,"105,000",2002
+215,East Midlands,"132,000",2003
+216,East Midlands,"154,000",2004
+217,East Midlands,"161,000",2005
+218,East Midlands,"164,000",2006
+219,East Midlands,"176,000",2007
+220,East Midlands,"177,000",2008
+221,East Midlands,"172,000",2009
+222,East Midlands,"185,000",2010
+223,East Midlands,"179,000",2011
+224,East Midlands,"177,000",2012
+225,East Midlands,"178,000",2013
+226,East Midlands,"188,000",2014
+227,East Midlands,"199,000",2015
+228,East Midlands,"207,000",2016
+229,East Midlands,"213,000",2017
+230,East Midlands,"222,000",2018
+231,East Midlands,"224,000",2019
+232,East Midlands,"236,000",2020
+233,East Midlands,"258,000",2021
+237,West Midlands,"28,000",1986
+238,West Midlands,"33,000",1987
+239,West Midlands,"42,000",1988
+240,West Midlands,"50,000",1989
+241,West Midlands,"55,000",1990
+242,West Midlands,"59,000",1991
+243,West Midlands,"58,000",1992
+244,West Midlands,"59,000",1993
+245,West Midlands,"59,000",1994
+246,West Midlands,"62,000",1995
+247,West Midlands,"64,000",1996
+248,West Midlands,"68,000",1997
+249,West Midlands,"72,000",1998
+250,West Midlands,"80,000",1999
+251,West Midlands,"88,000",2000
+252,West Midlands,"98,000",2001
+253,West Midlands,"112,000",2002
+254,West Midlands,"137,000",2003
+255,West Midlands,"162,000",2004
+256,West Midlands,"169,000",2005
+257,West Midlands,"177,000",2006
+258,West Midlands,"185,000",2007
+259,West Midlands,"185,000",2008
+260,West Midlands,"185,000",2009
+261,West Midlands,"201,000",2010
+262,West Midlands,"189,000",2011
+263,West Midlands,"188,000",2012
+264,West Midlands,"191,000",2013
+265,West Midlands,"202,000",2014
+266,West Midlands,"211,000",2015
+267,West Midlands,"219,000",2016
+268,West Midlands,"223,000",2017
+269,West Midlands,"231,000",2018
+270,West Midlands,"232,000",2019
+271,West Midlands,"247,000",2020
+272,West Midlands,"266,000",2021
+276,East of England,"43,000",1986
+277,East of England,"52,000",1987
+278,East of England,"66,000",1988
+279,East of England,"74,000",1989
+280,East of England,"72,000",1990
+281,East of England,"70,000",1991
+282,East of England,"65,000",1992
+283,East of England,"67,000",1993
+284,East of England,"69,000",1994
+285,East of England,"70,000",1995
+286,East of England,"73,000",1996
+287,East of England,"81,000",1997
+288,East of England,"89,000",1998
+289,East of England,"97,000",1999
+290,East of England,"112,000",2000
+291,East of England,"128,000",2001
+292,East of England,"151,000",2002
+293,East of England,"183,000",2003
+294,East of England,"203,000",2004
+295,East of England,"212,000",2005
+296,East of England,"221,000",2006
+297,East of England,"238,000",2007
+298,East of England,"244,000",2008
+299,East of England,"233,000",2009
+300,East of England,"261,000",2010
+301,East of England,"256,000",2011
+302,East of England,"255,000",2012
+303,East of England,"258,000",2013
+304,East of England,"280,000",2014
+305,East of England,"306,000",2015
+306,East of England,"326,000",2016
+307,East of England,"335,000",2017
+308,East of England,"338,000",2018
+309,East of England,"339,000",2019
+310,East of England,"356,000",2020
+311,East of England,"378,000",2021
+315,London,"55,000",1986
+316,London,"66,000",1987
+317,London,"78,000",1988
+318,London,"82,000",1989
+319,London,"84,000",1990
+320,London,"86,000",1991
+321,London,"78,000",1992
+322,London,"81,000",1993
+323,London,"88,000",1994
+324,London,"90,000",1995
+325,London,"94,000",1996
+326,London,"106,000",1997
+327,London,"115,000",1998
+328,London,"142,000",1999
+329,London,"164,000",2000
+330,London,"182,000",2001
+331,London,"207,000",2002
+332,London,"242,000",2003
+333,London,"273,000",2004
+334,London,"283,000",2005
+335,London,"306,000",2006
+336,London,"342,000",2007
+337,London,"351,000",2008
+338,London,"338,000",2009
+339,London,"385,000",2010
+340,London,"401,000",2011
+341,London,"410,000",2012
+342,London,"428,000",2013
+343,London,"470,000",2014
+344,London,"514,000",2015
+345,London,"534,000",2016
+346,London,"536,000",2017
+347,London,"538,000",2018
+348,London,"538,000",2019
+349,London,"575,000",2020
+350,London,"603,000",2021
+354,South East,"49,000",1986
+355,South East,"58,000",1987
+356,South East,"73,000",1988
+357,South East,"83,000",1989
+358,South East,"82,000",1990
+359,South East,"81,000",1991
+360,South East,"77,000",1992
+361,South East,"77,000",1993
+362,South East,"83,000",1994
+363,South East,"83,000",1995
+364,South East,"88,000",1996
+365,South East,"95,000",1997
+366,South East,"106,000",1998
+367,South East,"122,000",1999
+368,South East,"143,000",2000
+369,South East,"157,000",2001
+370,South East,"180,000",2002
+371,South East,"215,000",2003
+372,South East,"237,000",2004
+373,South East,"244,000",2005
+374,South East,"257,000",2006
+375,South East,"278,000",2007
+376,South East,"285,000",2008
+377,South East,"274,000",2009
+378,South East,"309,000",2010
+379,South East,"301,000",2011
+380,South East,"303,000",2012
+381,South East,"305,000",2013
+382,South East,"330,000",2014
+383,South East,"356,000",2015
+384,South East,"375,000",2016
+385,South East,"379,000",2017
+386,South East,"382,000",2018
+387,South East,"381,000",2019
+388,South East,"404,000",2020
+389,South East,"426,000",2021
+393,South West,"39,000",1986
+394,South West,"45,000",1987
+395,South West,"58,000",1988
+396,South West,"67,000",1989
+397,South West,"65,000",1990
+398,South West,"65,000",1991
+399,South West,"62,000",1992
+400,South West,"61,000",1993
+401,South West,"65,000",1994
+402,South West,"65,000",1995
+403,South West,"68,000",1996
+404,South West,"73,000",1997
+405,South West,"80,000",1998
+406,South West,"89,000",1999
+407,South West,"104,000",2000
+408,South West,"119,000",2001
+409,South West,"142,000",2002
+410,South West,"174,000",2003
+411,South West,"198,000",2004
+412,South West,"205,000",2005
+413,South West,"214,000",2006
+414,South West,"231,000",2007
+415,South West,"230,000",2008
+416,South West,"220,000",2009
+417,South West,"240,000",2010
+418,South West,"232,000",2011
+419,South West,"232,000",2012
+420,South West,"230,000",2013
+421,South West,"244,000",2014
+422,South West,"259,000",2015
+423,South West,"270,000",2016
+424,South West,"277,000",2017
+425,South West,"283,000",2018
+426,South West,"285,000",2019
+427,South West,"304,000",2020
+428,South West,"326,000",2021
+432,Wales,"27,000",1986
+433,Wales,"30,000",1987
+434,Wales,"34,000",1988
+435,Wales,"43,000",1989
+436,Wales,"46,000",1990
+437,Wales,"49,000",1991
+438,Wales,"50,000",1992
+439,Wales,"52,000",1993
+440,Wales,"53,000",1994
+441,Wales,"53,000",1995
+442,Wales,"55,000",1996
+443,Wales,"58,000",1997
+444,Wales,"61,000",1998
+445,Wales,"67,000",1999
+446,Wales,"72,000",2000
+447,Wales,"80,000",2001
+448,Wales,"88,000",2002
+449,Wales,"110,000",2003
+450,Wales,"138,000",2004
+451,Wales,"150,000",2005
+452,Wales,"157,000",2006
+453,Wales,"170,000",2007
+454,Wales,"170,000",2008
+455,Wales,"166,000",2009
+456,Wales,"172,000",2010
+457,Wales,"165,000",2011
+458,Wales,"165,000",2012
+459,Wales,"169,000",2013
+460,Wales,"178,000",2014
+461,Wales,"178,000",2015
+462,Wales,"182,000",2016
+463,Wales,"184,000",2017
+464,Wales,"188,000",2018
+465,Wales,"190,000",2019
+466,Wales,"201,000",2020
+467,Wales,"225,000",2021
+471,Scotland,"28,000",1986
+472,Scotland,"30,000",1987
+473,Scotland,"31,000",1988
+474,Scotland,"35,000",1989
+475,Scotland,"42,000",1990
+476,Scotland,"49,000",1991
+477,Scotland,"50,000",1992
+478,Scotland,"50,000",1993
+479,Scotland,"51,000",1994
+480,Scotland,"53,000",1995
+481,Scotland,"57,000",1996
+482,Scotland,"58,000",1997
+483,Scotland,"64,000",1998
+484,Scotland,"69,000",1999
+485,Scotland,"70,000",2000
+486,Scotland,"74,000",2001
+487,Scotland,"78,000",2002
+488,Scotland,"104,000",2003
+489,Scotland,"119,000",2004
+490,Scotland,"130,000",2005
+491,Scotland,"137,000",2006
+492,Scotland,"159,000",2007
+493,Scotland,"169,000",2008
+494,Scotland,"174,000",2009
+495,Scotland,"185,000",2010
+496,Scotland,"180,000",2011
+497,Scotland,"180,000",2012
+498,Scotland,"181,000",2013
+499,Scotland,"191,000",2014
+500,Scotland,"193,000",2015
+501,Scotland,"187,000",2016
+502,Scotland,"185,000",2017
+503,Scotland,"190,000",2018
+504,Scotland,"193,000",2019
+505,Scotland,"202,000",2020
+506,Scotland,"218,000",2021
+510,Northern Ireland,"26,000",1986
+511,Northern Ireland,"28,000",1987
+512,Northern Ireland,"30,000",1988
+513,Northern Ireland,"30,000",1989
+514,Northern Ireland,"32,000",1990
+515,Northern Ireland,"35,000",1991
+516,Northern Ireland,"38,000",1992
+517,Northern Ireland,"39,000",1993
+518,Northern Ireland,"39,000",1994
+519,Northern Ireland,"43,000",1995
+520,Northern Ireland,"48,000",1996
+521,Northern Ireland,"53,000",1997
+522,Northern Ireland,"59,000",1998
+523,Northern Ireland,"66,000",1999
+524,Northern Ireland,"73,000",2000
+525,Northern Ireland,"80,000",2001
+526,Northern Ireland,"84,000",2002
+527,Northern Ireland,"95,000",2003
+528,Northern Ireland,"110,000",2004
+529,Northern Ireland,"129,000",2005
+530,Northern Ireland,"169,000",2006
+531,Northern Ireland,"230,000",2007
+532,Northern Ireland,"218,000",2008
+533,Northern Ireland,"185,000",2009
+534,Northern Ireland,"168,000",2010
+535,Northern Ireland,"141,000",2011
+536,Northern Ireland,"131,000",2012
+537,Northern Ireland,"136,000",2013
+538,Northern Ireland,"144,000",2014
+539,Northern Ireland,"152,000",2015
+540,Northern Ireland,"152,000",2016
+541,Northern Ireland,"154,000",2017
+542,Northern Ireland,"158,000",2018
+543,Northern Ireland,"160,000",2019
+544,Northern Ireland,"172,000",2020
+545,Northern Ireland,"182,000",2021
