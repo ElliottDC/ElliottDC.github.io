@@ -1,0 +1,1711 @@
+,Region,DATE,Rental Price Index
+0,United Kingdom,01/01/2015,100
+1,United Kingdom,02/01/2015,100.2
+2,United Kingdom,03/01/2015,100.3
+3,United Kingdom,04/01/2015,100.6
+4,United Kingdom,05/01/2015,100.9
+5,United Kingdom,06/01/2015,101
+6,United Kingdom,07/01/2015,101.2
+7,United Kingdom,08/01/2015,101.5
+8,United Kingdom,09/01/2015,101.7
+9,United Kingdom,10/01/2015,101.8
+10,United Kingdom,11/01/2015,102.1
+11,United Kingdom,12/01/2015,102.2
+12,United Kingdom,01/01/2016,102.6
+13,United Kingdom,02/01/2016,102.7
+14,United Kingdom,03/01/2016,102.9
+15,United Kingdom,04/01/2016,103.2
+16,United Kingdom,05/01/2016,103.4
+17,United Kingdom,06/01/2016,103.4
+18,United Kingdom,07/01/2016,103.6
+19,United Kingdom,08/01/2016,103.8
+20,United Kingdom,09/01/2016,104
+21,United Kingdom,10/01/2016,104.2
+22,United Kingdom,11/01/2016,104.4
+23,United Kingdom,12/01/2016,104.6
+24,United Kingdom,01/01/2017,104.8
+25,United Kingdom,02/01/2017,104.9
+26,United Kingdom,03/01/2017,104.9
+27,United Kingdom,04/01/2017,105.1
+28,United Kingdom,05/01/2017,105.2
+29,United Kingdom,06/01/2017,105.3
+30,United Kingdom,07/01/2017,105.4
+31,United Kingdom,08/01/2017,105.5
+32,United Kingdom,09/01/2017,105.6
+33,United Kingdom,10/01/2017,105.7
+34,United Kingdom,11/01/2017,105.8
+35,United Kingdom,12/01/2017,105.9
+36,United Kingdom,01/01/2018,106
+37,United Kingdom,02/01/2018,106
+38,United Kingdom,03/01/2018,106.1
+39,United Kingdom,04/01/2018,106.1
+40,United Kingdom,05/01/2018,106.2
+41,United Kingdom,06/01/2018,106.3
+42,United Kingdom,07/01/2018,106.4
+43,United Kingdom,08/01/2018,106.5
+44,United Kingdom,09/01/2018,106.6
+45,United Kingdom,10/01/2018,106.7
+46,United Kingdom,11/01/2018,106.8
+47,United Kingdom,12/01/2018,107
+48,United Kingdom,01/01/2019,107.1
+49,United Kingdom,02/01/2019,107.2
+50,United Kingdom,03/01/2019,107.3
+51,United Kingdom,04/01/2019,107.4
+52,United Kingdom,05/01/2019,107.6
+53,United Kingdom,06/01/2019,107.7
+54,United Kingdom,07/01/2019,107.8
+55,United Kingdom,08/01/2019,107.9
+56,United Kingdom,09/01/2019,108
+57,United Kingdom,10/01/2019,108.1
+58,United Kingdom,11/01/2019,108.3
+59,United Kingdom,12/01/2019,108.5
+60,United Kingdom,01/01/2020,108.6
+61,United Kingdom,02/01/2020,108.7
+62,United Kingdom,03/01/2020,108.8
+63,United Kingdom,04/01/2020,109
+64,United Kingdom,05/01/2020,109.2
+65,United Kingdom,06/01/2020,109.3
+66,United Kingdom,07/01/2020,109.3
+67,United Kingdom,08/01/2020,109.5
+68,United Kingdom,09/01/2020,109.6
+69,United Kingdom,10/01/2020,109.7
+70,United Kingdom,11/01/2020,109.8
+71,United Kingdom,12/01/2020,110
+72,United Kingdom,01/01/2021,110
+73,United Kingdom,02/01/2021,110.1
+74,United Kingdom,03/01/2021,110.2
+75,United Kingdom,04/01/2021,110.3
+76,United Kingdom,05/01/2021,110.4
+77,United Kingdom,06/01/2021,110.6
+78,United Kingdom,07/01/2021,110.7
+79,United Kingdom,08/01/2021,110.9
+80,United Kingdom,09/01/2021,111.1
+81,United Kingdom,10/01/2021,111.4
+82,United Kingdom,11/01/2021,111.7
+83,United Kingdom,12/01/2021,112
+84,United Kingdom,01/01/2022,112.3
+85,United Kingdom,02/01/2022,112.5
+86,United Kingdom,03/01/2022,112.8
+87,United Kingdom,04/01/2022,113.2
+88,United Kingdom,05/01/2022,113.6
+89,United Kingdom,06/01/2022,113.9
+90,United Kingdom,07/01/2022,114.3
+91,United Kingdom,08/01/2022,114.7
+92,United Kingdom,09/01/2022,115.2
+93,United Kingdom,10/01/2022,115.6
+94,United Kingdom,11/01/2022,116.1
+95,Great Britain,01/01/2015,100
+96,Great Britain,02/01/2015,100.2
+97,Great Britain,03/01/2015,100.3
+98,Great Britain,04/01/2015,100.6
+99,Great Britain,05/01/2015,100.9
+100,Great Britain,06/01/2015,101.1
+101,Great Britain,07/01/2015,101.2
+102,Great Britain,08/01/2015,101.6
+103,Great Britain,09/01/2015,101.7
+104,Great Britain,10/01/2015,101.9
+105,Great Britain,11/01/2015,102.1
+106,Great Britain,12/01/2015,102.2
+107,Great Britain,01/01/2016,102.6
+108,Great Britain,02/01/2016,102.8
+109,Great Britain,03/01/2016,102.9
+110,Great Britain,04/01/2016,103.2
+111,Great Britain,05/01/2016,103.4
+112,Great Britain,06/01/2016,103.4
+113,Great Britain,07/01/2016,103.6
+114,Great Britain,08/01/2016,103.9
+115,Great Britain,09/01/2016,104
+116,Great Britain,10/01/2016,104.2
+117,Great Britain,11/01/2016,104.4
+118,Great Britain,12/01/2016,104.6
+119,Great Britain,01/01/2017,104.8
+120,Great Britain,02/01/2017,104.9
+121,Great Britain,03/01/2017,105
+122,Great Britain,04/01/2017,105.1
+123,Great Britain,05/01/2017,105.2
+124,Great Britain,06/01/2017,105.3
+125,Great Britain,07/01/2017,105.5
+126,Great Britain,08/01/2017,105.6
+127,Great Britain,09/01/2017,105.7
+128,Great Britain,10/01/2017,105.8
+129,Great Britain,11/01/2017,105.8
+130,Great Britain,12/01/2017,105.9
+131,Great Britain,01/01/2018,106
+132,Great Britain,02/01/2018,106
+133,Great Britain,03/01/2018,106.1
+134,Great Britain,04/01/2018,106.2
+135,Great Britain,05/01/2018,106.2
+136,Great Britain,06/01/2018,106.3
+137,Great Britain,07/01/2018,106.4
+138,Great Britain,08/01/2018,106.5
+139,Great Britain,09/01/2018,106.6
+140,Great Britain,10/01/2018,106.7
+141,Great Britain,11/01/2018,106.8
+142,Great Britain,12/01/2018,107
+143,Great Britain,01/01/2019,107.1
+144,Great Britain,02/01/2019,107.2
+145,Great Britain,03/01/2019,107.3
+146,Great Britain,04/01/2019,107.4
+147,Great Britain,05/01/2019,107.6
+148,Great Britain,06/01/2019,107.7
+149,Great Britain,07/01/2019,107.8
+150,Great Britain,08/01/2019,107.9
+151,Great Britain,09/01/2019,108
+152,Great Britain,10/01/2019,108.1
+153,Great Britain,11/01/2019,108.3
+154,Great Britain,12/01/2019,108.4
+155,Great Britain,01/01/2020,108.6
+156,Great Britain,02/01/2020,108.7
+157,Great Britain,03/01/2020,108.8
+158,Great Britain,04/01/2020,109
+159,Great Britain,05/01/2020,109.1
+160,Great Britain,06/01/2020,109.2
+161,Great Britain,07/01/2020,109.3
+162,Great Britain,08/01/2020,109.5
+163,Great Britain,09/01/2020,109.6
+164,Great Britain,10/01/2020,109.6
+165,Great Britain,11/01/2020,109.8
+166,Great Britain,12/01/2020,109.9
+167,Great Britain,01/01/2021,110
+168,Great Britain,02/01/2021,110.1
+169,Great Britain,03/01/2021,110.2
+170,Great Britain,04/01/2021,110.2
+171,Great Britain,05/01/2021,110.4
+172,Great Britain,06/01/2021,110.5
+173,Great Britain,07/01/2021,110.6
+174,Great Britain,08/01/2021,110.8
+175,Great Britain,09/01/2021,111
+176,Great Britain,10/01/2021,111.3
+177,Great Britain,11/01/2021,111.6
+178,Great Britain,12/01/2021,111.9
+179,Great Britain,01/01/2022,112.2
+180,Great Britain,02/01/2022,112.4
+181,Great Britain,03/01/2022,112.6
+182,Great Britain,04/01/2022,113
+183,Great Britain,05/01/2022,113.4
+184,Great Britain,06/01/2022,113.8
+185,Great Britain,07/01/2022,114.1
+186,Great Britain,08/01/2022,114.5
+187,Great Britain,09/01/2022,115
+188,Great Britain,10/01/2022,115.4
+189,Great Britain,11/01/2022,115.9
+190,England,01/01/2015,100
+191,England,02/01/2015,100.2
+192,England,03/01/2015,100.4
+193,England,04/01/2015,100.6
+194,England,05/01/2015,100.9
+195,England,06/01/2015,101.1
+196,England,07/01/2015,101.2
+197,England,08/01/2015,101.6
+198,England,09/01/2015,101.8
+199,England,10/01/2015,102
+200,England,11/01/2015,102.2
+201,England,12/01/2015,102.3
+202,England,01/01/2016,102.7
+203,England,02/01/2016,102.9
+204,England,03/01/2016,103.1
+205,England,04/01/2016,103.4
+206,England,05/01/2016,103.6
+207,England,06/01/2016,103.7
+208,England,07/01/2016,103.8
+209,England,08/01/2016,104.1
+210,England,09/01/2016,104.3
+211,England,10/01/2016,104.5
+212,England,11/01/2016,104.7
+213,England,12/01/2016,104.9
+214,England,01/01/2017,105.1
+215,England,02/01/2017,105.2
+216,England,03/01/2017,105.3
+217,England,04/01/2017,105.4
+218,England,05/01/2017,105.5
+219,England,06/01/2017,105.6
+220,England,07/01/2017,105.8
+221,England,08/01/2017,105.9
+222,England,09/01/2017,106
+223,England,10/01/2017,106.1
+224,England,11/01/2017,106.2
+225,England,12/01/2017,106.2
+226,England,01/01/2018,106.3
+227,England,02/01/2018,106.4
+228,England,03/01/2018,106.4
+229,England,04/01/2018,106.5
+230,England,05/01/2018,106.6
+231,England,06/01/2018,106.7
+232,England,07/01/2018,106.8
+233,England,08/01/2018,106.9
+234,England,09/01/2018,107
+235,England,10/01/2018,107.1
+236,England,11/01/2018,107.2
+237,England,12/01/2018,107.4
+238,England,01/01/2019,107.4
+239,England,02/01/2019,107.6
+240,England,03/01/2019,107.7
+241,England,04/01/2019,107.8
+242,England,05/01/2019,108
+243,England,06/01/2019,108.1
+244,England,07/01/2019,108.2
+245,England,08/01/2019,108.3
+246,England,09/01/2019,108.4
+247,England,10/01/2019,108.6
+248,England,11/01/2019,108.7
+249,England,12/01/2019,108.9
+250,England,01/01/2020,109.1
+251,England,02/01/2020,109.1
+252,England,03/01/2020,109.3
+253,England,04/01/2020,109.4
+254,England,05/01/2020,109.6
+255,England,06/01/2020,109.7
+256,England,07/01/2020,109.8
+257,England,08/01/2020,109.9
+258,England,09/01/2020,110.1
+259,England,10/01/2020,110.1
+260,England,11/01/2020,110.2
+261,England,12/01/2020,110.4
+262,England,01/01/2021,110.4
+263,England,02/01/2021,110.6
+264,England,03/01/2021,110.6
+265,England,04/01/2021,110.7
+266,England,05/01/2021,110.8
+267,England,06/01/2021,111
+268,England,07/01/2021,111.1
+269,England,08/01/2021,111.3
+270,England,09/01/2021,111.5
+271,England,10/01/2021,111.8
+272,England,11/01/2021,112
+273,England,12/01/2021,112.3
+274,England,01/01/2022,112.6
+275,England,02/01/2022,112.9
+276,England,03/01/2022,113.1
+277,England,04/01/2022,113.5
+278,England,05/01/2022,113.9
+279,England,06/01/2022,114.2
+280,England,07/01/2022,114.6
+281,England,08/01/2022,115
+282,England,09/01/2022,115.5
+283,England,10/01/2022,115.9
+284,England,11/01/2022,116.4
+285,Wales,01/01/2015,100
+286,Wales,02/01/2015,100.1
+287,Wales,03/01/2015,100.1
+288,Wales,04/01/2015,100.1
+289,Wales,05/01/2015,100.2
+290,Wales,06/01/2015,100.2
+291,Wales,07/01/2015,100.2
+292,Wales,08/01/2015,100.1
+293,Wales,09/01/2015,100.1
+294,Wales,10/01/2015,100.1
+295,Wales,11/01/2015,100.3
+296,Wales,12/01/2015,100.2
+297,Wales,01/01/2016,100.3
+298,Wales,02/01/2016,100.2
+299,Wales,03/01/2016,100.3
+300,Wales,04/01/2016,100.3
+301,Wales,05/01/2016,100.2
+302,Wales,06/01/2016,100.2
+303,Wales,07/01/2016,100.2
+304,Wales,08/01/2016,100.2
+305,Wales,09/01/2016,100.2
+306,Wales,10/01/2016,100.4
+307,Wales,11/01/2016,100.6
+308,Wales,12/01/2016,100.6
+309,Wales,01/01/2017,100.7
+310,Wales,02/01/2017,100.8
+311,Wales,03/01/2017,100.9
+312,Wales,04/01/2017,101
+313,Wales,05/01/2017,101.1
+314,Wales,06/01/2017,101.3
+315,Wales,07/01/2017,101.5
+316,Wales,08/01/2017,101.6
+317,Wales,09/01/2017,101.6
+318,Wales,10/01/2017,102
+319,Wales,11/01/2017,102
+320,Wales,12/01/2017,102.2
+321,Wales,01/01/2018,102.1
+322,Wales,02/01/2018,102.1
+323,Wales,03/01/2018,102.2
+324,Wales,04/01/2018,102.3
+325,Wales,05/01/2018,102.3
+326,Wales,06/01/2018,102.4
+327,Wales,07/01/2018,102.5
+328,Wales,08/01/2018,102.6
+329,Wales,09/01/2018,102.7
+330,Wales,10/01/2018,102.7
+331,Wales,11/01/2018,102.9
+332,Wales,12/01/2018,103.1
+333,Wales,01/01/2019,103.1
+334,Wales,02/01/2019,103.3
+335,Wales,03/01/2019,103.3
+336,Wales,04/01/2019,103.4
+337,Wales,05/01/2019,103.5
+338,Wales,06/01/2019,103.5
+339,Wales,07/01/2019,103.6
+340,Wales,08/01/2019,103.8
+341,Wales,09/01/2019,103.9
+342,Wales,10/01/2019,103.9
+343,Wales,11/01/2019,104
+344,Wales,12/01/2019,104.3
+345,Wales,01/01/2020,104.4
+346,Wales,02/01/2020,104.5
+347,Wales,03/01/2020,104.6
+348,Wales,04/01/2020,104.5
+349,Wales,05/01/2020,104.7
+350,Wales,06/01/2020,104.9
+351,Wales,07/01/2020,105.3
+352,Wales,08/01/2020,105.3
+353,Wales,09/01/2020,105.4
+354,Wales,10/01/2020,105.6
+355,Wales,11/01/2020,105.7
+356,Wales,12/01/2020,105.8
+357,Wales,01/01/2021,106.1
+358,Wales,02/01/2021,106.1
+359,Wales,03/01/2021,106.1
+360,Wales,04/01/2021,106.1
+361,Wales,05/01/2021,106.3
+362,Wales,06/01/2021,106.5
+363,Wales,07/01/2021,106.4
+364,Wales,08/01/2021,106.5
+365,Wales,09/01/2021,106.7
+366,Wales,10/01/2021,106.8
+367,Wales,11/01/2021,107.3
+368,Wales,12/01/2021,107.4
+369,Wales,01/01/2022,107.5
+370,Wales,02/01/2022,107.6
+371,Wales,03/01/2022,107.8
+372,Wales,04/01/2022,108
+373,Wales,05/01/2022,108.3
+374,Wales,06/01/2022,108.5
+375,Wales,07/01/2022,108.7
+376,Wales,08/01/2022,109.2
+377,Wales,09/01/2022,109.6
+378,Wales,10/01/2022,110.2
+379,Wales,11/01/2022,110.7
+380,Scotland,01/01/2015,100
+381,Scotland,02/01/2015,100.1
+382,Scotland,03/01/2015,100.1
+383,Scotland,04/01/2015,100.2
+384,Scotland,05/01/2015,100.3
+385,Scotland,06/01/2015,100.5
+386,Scotland,07/01/2015,100.5
+387,Scotland,08/01/2015,100.7
+388,Scotland,09/01/2015,100.8
+389,Scotland,10/01/2015,100.8
+390,Scotland,11/01/2015,100.6
+391,Scotland,12/01/2015,100.6
+392,Scotland,01/01/2016,100.8
+393,Scotland,02/01/2016,100.8
+394,Scotland,03/01/2016,100.7
+395,Scotland,04/01/2016,100.8
+396,Scotland,05/01/2016,100.7
+397,Scotland,06/01/2016,100.5
+398,Scotland,07/01/2016,100.7
+399,Scotland,08/01/2016,100.7
+400,Scotland,09/01/2016,100.7
+401,Scotland,10/01/2016,100.6
+402,Scotland,11/01/2016,100.7
+403,Scotland,12/01/2016,100.7
+404,Scotland,01/01/2017,100.8
+405,Scotland,02/01/2017,100.7
+406,Scotland,03/01/2017,100.6
+407,Scotland,04/01/2017,100.7
+408,Scotland,05/01/2017,100.7
+409,Scotland,06/01/2017,100.7
+410,Scotland,07/01/2017,100.9
+411,Scotland,08/01/2017,101
+412,Scotland,09/01/2017,101
+413,Scotland,10/01/2017,101
+414,Scotland,11/01/2017,101
+415,Scotland,12/01/2017,101.1
+416,Scotland,01/01/2018,101.1
+417,Scotland,02/01/2018,101.1
+418,Scotland,03/01/2018,101.3
+419,Scotland,04/01/2018,101.3
+420,Scotland,05/01/2018,101.3
+421,Scotland,06/01/2018,101.3
+422,Scotland,07/01/2018,101.4
+423,Scotland,08/01/2018,101.4
+424,Scotland,09/01/2018,101.6
+425,Scotland,10/01/2018,101.6
+426,Scotland,11/01/2018,101.5
+427,Scotland,12/01/2018,101.7
+428,Scotland,01/01/2019,101.8
+429,Scotland,02/01/2019,101.8
+430,Scotland,03/01/2019,101.9
+431,Scotland,04/01/2019,102
+432,Scotland,05/01/2019,102.1
+433,Scotland,06/01/2019,102.2
+434,Scotland,07/01/2019,102.3
+435,Scotland,08/01/2019,102.4
+436,Scotland,09/01/2019,102.4
+437,Scotland,10/01/2019,102.5
+438,Scotland,11/01/2019,102.4
+439,Scotland,12/01/2019,102.4
+440,Scotland,01/01/2020,102.4
+441,Scotland,02/01/2020,102.4
+442,Scotland,03/01/2020,102.6
+443,Scotland,04/01/2020,102.7
+444,Scotland,05/01/2020,102.7
+445,Scotland,06/01/2020,102.8
+446,Scotland,07/01/2020,102.8
+447,Scotland,08/01/2020,102.9
+448,Scotland,09/01/2020,103
+449,Scotland,10/01/2020,103.1
+450,Scotland,11/01/2020,103.1
+451,Scotland,12/01/2020,103.3
+452,Scotland,01/01/2021,103.4
+453,Scotland,02/01/2021,103.5
+454,Scotland,03/01/2021,103.6
+455,Scotland,04/01/2021,103.9
+456,Scotland,05/01/2021,104
+457,Scotland,06/01/2021,104
+458,Scotland,07/01/2021,104.2
+459,Scotland,08/01/2021,104.5
+460,Scotland,09/01/2021,104.6
+461,Scotland,10/01/2021,104.8
+462,Scotland,11/01/2021,105.1
+463,Scotland,12/01/2021,105.7
+464,Scotland,01/01/2022,106.1
+465,Scotland,02/01/2022,106.3
+466,Scotland,03/01/2022,106.5
+467,Scotland,04/01/2022,106.8
+468,Scotland,05/01/2022,107.2
+469,Scotland,06/01/2022,107.7
+470,Scotland,07/01/2022,108
+471,Scotland,08/01/2022,108.2
+472,Scotland,09/01/2022,108.7
+473,Scotland,10/01/2022,109.2
+474,Scotland,11/01/2022,109.8
+475,Northern Ireland1,01/01/2015,100
+476,Northern Ireland1,02/01/2015,100
+477,Northern Ireland1,03/01/2015,100
+478,Northern Ireland1,04/01/2015,100
+479,Northern Ireland1,05/01/2015,100
+480,Northern Ireland1,06/01/2015,100.1
+481,Northern Ireland1,07/01/2015,100.1
+482,Northern Ireland1,08/01/2015,100.2
+483,Northern Ireland1,09/01/2015,100.5
+484,Northern Ireland1,10/01/2015,100.6
+485,Northern Ireland1,11/01/2015,100.9
+486,Northern Ireland1,12/01/2015,101.2
+487,Northern Ireland1,01/01/2016,101.5
+488,Northern Ireland1,02/01/2016,101.7
+489,Northern Ireland1,03/01/2016,101.8
+490,Northern Ireland1,04/01/2016,101.9
+491,Northern Ireland1,05/01/2016,102.4
+492,Northern Ireland1,06/01/2016,102.5
+493,Northern Ireland1,07/01/2016,102.6
+494,Northern Ireland1,08/01/2016,102.8
+495,Northern Ireland1,09/01/2016,102.7
+496,Northern Ireland1,10/01/2016,102.8
+497,Northern Ireland1,11/01/2016,102.9
+498,Northern Ireland1,12/01/2016,102.9
+499,Northern Ireland1,01/01/2017,102.7
+500,Northern Ireland1,02/01/2017,102.7
+501,Northern Ireland1,03/01/2017,103
+502,Northern Ireland1,04/01/2017,103.2
+503,Northern Ireland1,05/01/2017,103.6
+504,Northern Ireland1,06/01/2017,103.9
+505,Northern Ireland1,07/01/2017,104
+506,Northern Ireland1,08/01/2017,104.1
+507,Northern Ireland1,09/01/2017,104.4
+508,Northern Ireland1,10/01/2017,104.5
+509,Northern Ireland1,11/01/2017,104.8
+510,Northern Ireland1,12/01/2017,104.8
+511,Northern Ireland1,01/01/2018,104.8
+512,Northern Ireland1,02/01/2018,104.9
+513,Northern Ireland1,03/01/2018,105.1
+514,Northern Ireland1,04/01/2018,105.4
+515,Northern Ireland1,05/01/2018,105.7
+516,Northern Ireland1,06/01/2018,105.9
+517,Northern Ireland1,07/01/2018,106
+518,Northern Ireland1,08/01/2018,106.2
+519,Northern Ireland1,09/01/2018,106.5
+520,Northern Ireland1,10/01/2018,106.7
+521,Northern Ireland1,11/01/2018,106.6
+522,Northern Ireland1,12/01/2018,106.9
+523,Northern Ireland1,01/01/2019,107.1
+524,Northern Ireland1,02/01/2019,107.1
+525,Northern Ireland1,03/01/2019,107.3
+526,Northern Ireland1,04/01/2019,107.4
+527,Northern Ireland1,05/01/2019,107.6
+528,Northern Ireland1,06/01/2019,107.9
+529,Northern Ireland1,07/01/2019,108.2
+530,Northern Ireland1,08/01/2019,108.6
+531,Northern Ireland1,09/01/2019,108.8
+532,Northern Ireland1,10/01/2019,109
+533,Northern Ireland1,11/01/2019,109
+534,Northern Ireland1,12/01/2019,109
+535,Northern Ireland1,01/01/2020,109.5
+536,Northern Ireland1,02/01/2020,109.7
+537,Northern Ireland1,03/01/2020,110.1
+538,Northern Ireland1,04/01/2020,110.3
+539,Northern Ireland1,05/01/2020,110.6
+540,Northern Ireland1,06/01/2020,110.5
+541,Northern Ireland1,07/01/2020,110.8
+542,Northern Ireland1,08/01/2020,111.1
+543,Northern Ireland1,09/01/2020,111.7
+544,Northern Ireland1,10/01/2020,111.8
+545,Northern Ireland1,11/01/2020,112.3
+546,Northern Ireland1,12/01/2020,112.6
+547,Northern Ireland1,01/01/2021,113.3
+548,Northern Ireland1,02/01/2021,113.5
+549,Northern Ireland1,03/01/2021,113.9
+550,Northern Ireland1,04/01/2021,114.3
+551,Northern Ireland1,05/01/2021,114.7
+552,Northern Ireland1,06/01/2021,115.2
+553,Northern Ireland1,07/01/2021,115.7
+554,Northern Ireland1,08/01/2021,116.4
+555,Northern Ireland1,09/01/2021,117.2
+556,Northern Ireland1,10/01/2021,117.9
+557,Northern Ireland1,11/01/2021,119
+558,Northern Ireland1,12/01/2021,119.9
+559,Northern Ireland1,01/01/2022,120.4
+560,Northern Ireland1,02/01/2022,121
+561,Northern Ireland1,03/01/2022,121.7
+562,Northern Ireland1,04/01/2022,122.8
+563,Northern Ireland1,05/01/2022,124
+564,Northern Ireland1,06/01/2022,125
+565,Northern Ireland1,07/01/2022,126
+566,Northern Ireland1,08/01/2022,127
+567,Northern Ireland1,09/01/2022,128.3
+568,Northern Ireland1,10/01/2022,128.3
+569,Northern Ireland1,11/01/2022,128.3
+570,North East,01/01/2015,100
+571,North East,02/01/2015,100
+572,North East,03/01/2015,100.1
+573,North East,04/01/2015,100.2
+574,North East,05/01/2015,100.3
+575,North East,06/01/2015,100.3
+576,North East,07/01/2015,100.3
+577,North East,08/01/2015,100.4
+578,North East,09/01/2015,100.4
+579,North East,10/01/2015,100.4
+580,North East,11/01/2015,100.6
+581,North East,12/01/2015,100.6
+582,North East,01/01/2016,100.9
+583,North East,02/01/2016,100.9
+584,North East,03/01/2016,100.9
+585,North East,04/01/2016,101
+586,North East,05/01/2016,101.1
+587,North East,06/01/2016,101.1
+588,North East,07/01/2016,101.2
+589,North East,08/01/2016,101.3
+590,North East,09/01/2016,101.4
+591,North East,10/01/2016,101.6
+592,North East,11/01/2016,101.7
+593,North East,12/01/2016,101.7
+594,North East,01/01/2017,101.7
+595,North East,02/01/2017,101.8
+596,North East,03/01/2017,101.7
+597,North East,04/01/2017,101.7
+598,North East,05/01/2017,101.6
+599,North East,06/01/2017,101.7
+600,North East,07/01/2017,101.7
+601,North East,08/01/2017,101.7
+602,North East,09/01/2017,101.8
+603,North East,10/01/2017,101.8
+604,North East,11/01/2017,101.7
+605,North East,12/01/2017,101.8
+606,North East,01/01/2018,101.8
+607,North East,02/01/2018,101.8
+608,North East,03/01/2018,101.9
+609,North East,04/01/2018,101.8
+610,North East,05/01/2018,101.8
+611,North East,06/01/2018,101.9
+612,North East,07/01/2018,101.8
+613,North East,08/01/2018,101.9
+614,North East,09/01/2018,101.9
+615,North East,10/01/2018,102.1
+616,North East,11/01/2018,102.1
+617,North East,12/01/2018,102.1
+618,North East,01/01/2019,102.2
+619,North East,02/01/2019,102.1
+620,North East,03/01/2019,102.2
+621,North East,04/01/2019,102.2
+622,North East,05/01/2019,102.3
+623,North East,06/01/2019,102.4
+624,North East,07/01/2019,102.5
+625,North East,08/01/2019,102.4
+626,North East,09/01/2019,102.5
+627,North East,10/01/2019,102.5
+628,North East,11/01/2019,102.6
+629,North East,12/01/2019,102.7
+630,North East,01/01/2020,102.8
+631,North East,02/01/2020,102.8
+632,North East,03/01/2020,102.9
+633,North East,04/01/2020,102.9
+634,North East,05/01/2020,103.2
+635,North East,06/01/2020,103.3
+636,North East,07/01/2020,103.4
+637,North East,08/01/2020,103.5
+638,North East,09/01/2020,103.7
+639,North East,10/01/2020,103.7
+640,North East,11/01/2020,103.8
+641,North East,12/01/2020,104
+642,North East,01/01/2021,104
+643,North East,02/01/2021,104.3
+644,North East,03/01/2021,104.3
+645,North East,04/01/2021,104.4
+646,North East,05/01/2021,104.6
+647,North East,06/01/2021,104.7
+648,North East,07/01/2021,104.9
+649,North East,08/01/2021,105
+650,North East,09/01/2021,105.4
+651,North East,10/01/2021,105.6
+652,North East,11/01/2021,105.8
+653,North East,12/01/2021,106.1
+654,North East,01/01/2022,106.3
+655,North East,02/01/2022,106.6
+656,North East,03/01/2022,106.8
+657,North East,04/01/2022,107.1
+658,North East,05/01/2022,107.4
+659,North East,06/01/2022,107.7
+660,North East,07/01/2022,108
+661,North East,08/01/2022,108.2
+662,North East,09/01/2022,108.6
+663,North East,10/01/2022,109.1
+664,North East,11/01/2022,109.5
+665,North West,01/01/2015,100
+666,North West,02/01/2015,100
+667,North West,03/01/2015,100
+668,North West,04/01/2015,100.1
+669,North West,05/01/2015,100.1
+670,North West,06/01/2015,100.1
+671,North West,07/01/2015,100.2
+672,North West,08/01/2015,100.4
+673,North West,09/01/2015,100.4
+674,North West,10/01/2015,100.6
+675,North West,11/01/2015,100.8
+676,North West,12/01/2015,100.9
+677,North West,01/01/2016,101
+678,North West,02/01/2016,101
+679,North West,03/01/2016,101.1
+680,North West,04/01/2016,101.2
+681,North West,05/01/2016,101.3
+682,North West,06/01/2016,101.3
+683,North West,07/01/2016,101.4
+684,North West,08/01/2016,101.5
+685,North West,09/01/2016,101.7
+686,North West,10/01/2016,101.9
+687,North West,11/01/2016,102
+688,North West,12/01/2016,102.1
+689,North West,01/01/2017,102.2
+690,North West,02/01/2017,102.3
+691,North West,03/01/2017,102.4
+692,North West,04/01/2017,102.5
+693,North West,05/01/2017,102.7
+694,North West,06/01/2017,102.8
+695,North West,07/01/2017,102.8
+696,North West,08/01/2017,102.9
+697,North West,09/01/2017,103.1
+698,North West,10/01/2017,103.2
+699,North West,11/01/2017,103.3
+700,North West,12/01/2017,103.4
+701,North West,01/01/2018,103.5
+702,North West,02/01/2018,103.6
+703,North West,03/01/2018,103.7
+704,North West,04/01/2018,103.8
+705,North West,05/01/2018,103.8
+706,North West,06/01/2018,103.9
+707,North West,07/01/2018,104
+708,North West,08/01/2018,104.1
+709,North West,09/01/2018,104.1
+710,North West,10/01/2018,104.2
+711,North West,11/01/2018,104.3
+712,North West,12/01/2018,104.4
+713,North West,01/01/2019,104.6
+714,North West,02/01/2019,104.8
+715,North West,03/01/2019,104.9
+716,North West,04/01/2019,105.1
+717,North West,05/01/2019,105.2
+718,North West,06/01/2019,105.3
+719,North West,07/01/2019,105.4
+720,North West,08/01/2019,105.5
+721,North West,09/01/2019,105.5
+722,North West,10/01/2019,105.5
+723,North West,11/01/2019,105.6
+724,North West,12/01/2019,105.7
+725,North West,01/01/2020,105.7
+726,North West,02/01/2020,105.8
+727,North West,03/01/2020,105.9
+728,North West,04/01/2020,106
+729,North West,05/01/2020,106.3
+730,North West,06/01/2020,106.4
+731,North West,07/01/2020,106.5
+732,North West,08/01/2020,106.7
+733,North West,09/01/2020,106.9
+734,North West,10/01/2020,107
+735,North West,11/01/2020,107.2
+736,North West,12/01/2020,107.3
+737,North West,01/01/2021,107.6
+738,North West,02/01/2021,107.8
+739,North West,03/01/2021,108
+740,North West,04/01/2021,108.2
+741,North West,05/01/2021,108.4
+742,North West,06/01/2021,108.5
+743,North West,07/01/2021,108.7
+744,North West,08/01/2021,109
+745,North West,09/01/2021,109.3
+746,North West,10/01/2021,109.6
+747,North West,11/01/2021,110
+748,North West,12/01/2021,110.5
+749,North West,01/01/2022,110.9
+750,North West,02/01/2022,111.2
+751,North West,03/01/2022,111.5
+752,North West,04/01/2022,111.9
+753,North West,05/01/2022,112.2
+754,North West,06/01/2022,112.6
+755,North West,07/01/2022,113
+756,North West,08/01/2022,113.5
+757,North West,09/01/2022,114
+758,North West,10/01/2022,114.5
+759,North West,11/01/2022,115.2
+760,Yorkshire and The Humber,01/01/2015,100
+761,Yorkshire and The Humber,02/01/2015,100
+762,Yorkshire and The Humber,03/01/2015,100
+763,Yorkshire and The Humber,04/01/2015,100.1
+764,Yorkshire and The Humber,05/01/2015,100.2
+765,Yorkshire and The Humber,06/01/2015,100.2
+766,Yorkshire and The Humber,07/01/2015,100.4
+767,Yorkshire and The Humber,08/01/2015,100.6
+768,Yorkshire and The Humber,09/01/2015,100.6
+769,Yorkshire and The Humber,10/01/2015,100.7
+770,Yorkshire and The Humber,11/01/2015,100.8
+771,Yorkshire and The Humber,12/01/2015,100.8
+772,Yorkshire and The Humber,01/01/2016,101.2
+773,Yorkshire and The Humber,02/01/2016,101.3
+774,Yorkshire and The Humber,03/01/2016,101.3
+775,Yorkshire and The Humber,04/01/2016,101.4
+776,Yorkshire and The Humber,05/01/2016,101.4
+777,Yorkshire and The Humber,06/01/2016,101.5
+778,Yorkshire and The Humber,07/01/2016,101.7
+779,Yorkshire and The Humber,08/01/2016,102
+780,Yorkshire and The Humber,09/01/2016,102.1
+781,Yorkshire and The Humber,10/01/2016,102.2
+782,Yorkshire and The Humber,11/01/2016,102.3
+783,Yorkshire and The Humber,12/01/2016,102.5
+784,Yorkshire and The Humber,01/01/2017,102.7
+785,Yorkshire and The Humber,02/01/2017,102.8
+786,Yorkshire and The Humber,03/01/2017,102.9
+787,Yorkshire and The Humber,04/01/2017,103.1
+788,Yorkshire and The Humber,05/01/2017,103.2
+789,Yorkshire and The Humber,06/01/2017,103.2
+790,Yorkshire and The Humber,07/01/2017,103.4
+791,Yorkshire and The Humber,08/01/2017,103.7
+792,Yorkshire and The Humber,09/01/2017,103.8
+793,Yorkshire and The Humber,10/01/2017,103.9
+794,Yorkshire and The Humber,11/01/2017,103.9
+795,Yorkshire and The Humber,12/01/2017,104
+796,Yorkshire and The Humber,01/01/2018,104.1
+797,Yorkshire and The Humber,02/01/2018,104.3
+798,Yorkshire and The Humber,03/01/2018,104.3
+799,Yorkshire and The Humber,04/01/2018,104.4
+800,Yorkshire and The Humber,05/01/2018,104.5
+801,Yorkshire and The Humber,06/01/2018,104.7
+802,Yorkshire and The Humber,07/01/2018,104.8
+803,Yorkshire and The Humber,08/01/2018,105.1
+804,Yorkshire and The Humber,09/01/2018,105.4
+805,Yorkshire and The Humber,10/01/2018,105.5
+806,Yorkshire and The Humber,11/01/2018,105.7
+807,Yorkshire and The Humber,12/01/2018,105.8
+808,Yorkshire and The Humber,01/01/2019,106
+809,Yorkshire and The Humber,02/01/2019,106.2
+810,Yorkshire and The Humber,03/01/2019,106.3
+811,Yorkshire and The Humber,04/01/2019,106.3
+812,Yorkshire and The Humber,05/01/2019,106.4
+813,Yorkshire and The Humber,06/01/2019,106.6
+814,Yorkshire and The Humber,07/01/2019,106.7
+815,Yorkshire and The Humber,08/01/2019,106.8
+816,Yorkshire and The Humber,09/01/2019,107.3
+817,Yorkshire and The Humber,10/01/2019,107.4
+818,Yorkshire and The Humber,11/01/2019,107.8
+819,Yorkshire and The Humber,12/01/2019,107.8
+820,Yorkshire and The Humber,01/01/2020,108.2
+821,Yorkshire and The Humber,02/01/2020,108.2
+822,Yorkshire and The Humber,03/01/2020,108.4
+823,Yorkshire and The Humber,04/01/2020,108.5
+824,Yorkshire and The Humber,05/01/2020,108.8
+825,Yorkshire and The Humber,06/01/2020,108.9
+826,Yorkshire and The Humber,07/01/2020,109
+827,Yorkshire and The Humber,08/01/2020,109
+828,Yorkshire and The Humber,09/01/2020,109.2
+829,Yorkshire and The Humber,10/01/2020,109.7
+830,Yorkshire and The Humber,11/01/2020,109.6
+831,Yorkshire and The Humber,12/01/2020,109.6
+832,Yorkshire and The Humber,01/01/2021,109.7
+833,Yorkshire and The Humber,02/01/2021,109.9
+834,Yorkshire and The Humber,03/01/2021,110.1
+835,Yorkshire and The Humber,04/01/2021,110.3
+836,Yorkshire and The Humber,05/01/2021,110.5
+837,Yorkshire and The Humber,06/01/2021,110.7
+838,Yorkshire and The Humber,07/01/2021,110.8
+839,Yorkshire and The Humber,08/01/2021,111
+840,Yorkshire and The Humber,09/01/2021,111.2
+841,Yorkshire and The Humber,10/01/2021,111.5
+842,Yorkshire and The Humber,11/01/2021,112
+843,Yorkshire and The Humber,12/01/2021,112.5
+844,Yorkshire and The Humber,01/01/2022,112.9
+845,Yorkshire and The Humber,02/01/2022,113.2
+846,Yorkshire and The Humber,03/01/2022,113.4
+847,Yorkshire and The Humber,04/01/2022,113.8
+848,Yorkshire and The Humber,05/01/2022,114
+849,Yorkshire and The Humber,06/01/2022,114.2
+850,Yorkshire and The Humber,07/01/2022,114.6
+851,Yorkshire and The Humber,08/01/2022,115.1
+852,Yorkshire and The Humber,09/01/2022,115.7
+853,Yorkshire and The Humber,10/01/2022,116.1
+854,Yorkshire and The Humber,11/01/2022,116.5
+855,East Midlands,01/01/2015,100
+856,East Midlands,02/01/2015,100.1
+857,East Midlands,03/01/2015,100.1
+858,East Midlands,04/01/2015,100.5
+859,East Midlands,05/01/2015,100.7
+860,East Midlands,06/01/2015,100.8
+861,East Midlands,07/01/2015,101
+862,East Midlands,08/01/2015,101.1
+863,East Midlands,09/01/2015,101.4
+864,East Midlands,10/01/2015,101.6
+865,East Midlands,11/01/2015,101.9
+866,East Midlands,12/01/2015,102
+867,East Midlands,01/01/2016,102.3
+868,East Midlands,02/01/2016,102.5
+869,East Midlands,03/01/2016,102.8
+870,East Midlands,04/01/2016,103.2
+871,East Midlands,05/01/2016,103.1
+872,East Midlands,06/01/2016,103.3
+873,East Midlands,07/01/2016,103.4
+874,East Midlands,08/01/2016,103.6
+875,East Midlands,09/01/2016,103.7
+876,East Midlands,10/01/2016,104
+877,East Midlands,11/01/2016,104.5
+878,East Midlands,12/01/2016,104.8
+879,East Midlands,01/01/2017,105.2
+880,East Midlands,02/01/2017,105.3
+881,East Midlands,03/01/2017,105.4
+882,East Midlands,04/01/2017,105.6
+883,East Midlands,05/01/2017,105.7
+884,East Midlands,06/01/2017,106
+885,East Midlands,07/01/2017,106.3
+886,East Midlands,08/01/2017,106.5
+887,East Midlands,09/01/2017,106.7
+888,East Midlands,10/01/2017,107.1
+889,East Midlands,11/01/2017,107.3
+890,East Midlands,12/01/2017,107.6
+891,East Midlands,01/01/2018,107.8
+892,East Midlands,02/01/2018,108
+893,East Midlands,03/01/2018,108.3
+894,East Midlands,04/01/2018,108.5
+895,East Midlands,05/01/2018,108.7
+896,East Midlands,06/01/2018,108.9
+897,East Midlands,07/01/2018,109.2
+898,East Midlands,08/01/2018,109.4
+899,East Midlands,09/01/2018,109.9
+900,East Midlands,10/01/2018,110
+901,East Midlands,11/01/2018,110.2
+902,East Midlands,12/01/2018,110.3
+903,East Midlands,01/01/2019,110.5
+904,East Midlands,02/01/2019,110.6
+905,East Midlands,03/01/2019,110.8
+906,East Midlands,04/01/2019,110.9
+907,East Midlands,05/01/2019,111
+908,East Midlands,06/01/2019,111.3
+909,East Midlands,07/01/2019,111.4
+910,East Midlands,08/01/2019,111.5
+911,East Midlands,09/01/2019,111.7
+912,East Midlands,10/01/2019,112.1
+913,East Midlands,11/01/2019,112.5
+914,East Midlands,12/01/2019,112.6
+915,East Midlands,01/01/2020,112.9
+916,East Midlands,02/01/2020,113.1
+917,East Midlands,03/01/2020,113.3
+918,East Midlands,04/01/2020,113.5
+919,East Midlands,05/01/2020,113.7
+920,East Midlands,06/01/2020,113.9
+921,East Midlands,07/01/2020,114
+922,East Midlands,08/01/2020,114.2
+923,East Midlands,09/01/2020,114.6
+924,East Midlands,10/01/2020,114.7
+925,East Midlands,11/01/2020,115
+926,East Midlands,12/01/2020,115.2
+927,East Midlands,01/01/2021,115.4
+928,East Midlands,02/01/2021,115.6
+929,East Midlands,03/01/2021,115.7
+930,East Midlands,04/01/2021,116.1
+931,East Midlands,05/01/2021,116.5
+932,East Midlands,06/01/2021,116.7
+933,East Midlands,07/01/2021,116.9
+934,East Midlands,08/01/2021,117.3
+935,East Midlands,09/01/2021,117.7
+936,East Midlands,10/01/2021,118.1
+937,East Midlands,11/01/2021,118.6
+938,East Midlands,12/01/2021,119
+939,East Midlands,01/01/2022,119.6
+940,East Midlands,02/01/2022,119.9
+941,East Midlands,03/01/2022,120.2
+942,East Midlands,04/01/2022,120.8
+943,East Midlands,05/01/2022,121.3
+944,East Midlands,06/01/2022,121.6
+945,East Midlands,07/01/2022,122
+946,East Midlands,08/01/2022,122.6
+947,East Midlands,09/01/2022,123.3
+948,East Midlands,10/01/2022,123.8
+949,East Midlands,11/01/2022,124.6
+950,West Midlands,01/01/2015,100
+951,West Midlands,02/01/2015,100.1
+952,West Midlands,03/01/2015,100.2
+953,West Midlands,04/01/2015,100.4
+954,West Midlands,05/01/2015,100.6
+955,West Midlands,06/01/2015,100.8
+956,West Midlands,07/01/2015,101
+957,West Midlands,08/01/2015,101.1
+958,West Midlands,09/01/2015,101.2
+959,West Midlands,10/01/2015,101.3
+960,West Midlands,11/01/2015,101.4
+961,West Midlands,12/01/2015,101.6
+962,West Midlands,01/01/2016,101.8
+963,West Midlands,02/01/2016,101.9
+964,West Midlands,03/01/2016,102.1
+965,West Midlands,04/01/2016,102.2
+966,West Midlands,05/01/2016,102.3
+967,West Midlands,06/01/2016,102.4
+968,West Midlands,07/01/2016,102.5
+969,West Midlands,08/01/2016,102.9
+970,West Midlands,09/01/2016,103.1
+971,West Midlands,10/01/2016,103.5
+972,West Midlands,11/01/2016,103.6
+973,West Midlands,12/01/2016,103.8
+974,West Midlands,01/01/2017,104
+975,West Midlands,02/01/2017,104.2
+976,West Midlands,03/01/2017,104.2
+977,West Midlands,04/01/2017,104.5
+978,West Midlands,05/01/2017,104.5
+979,West Midlands,06/01/2017,104.7
+980,West Midlands,07/01/2017,104.8
+981,West Midlands,08/01/2017,105
+982,West Midlands,09/01/2017,105.1
+983,West Midlands,10/01/2017,105.2
+984,West Midlands,11/01/2017,105.5
+985,West Midlands,12/01/2017,105.6
+986,West Midlands,01/01/2018,105.8
+987,West Midlands,02/01/2018,105.9
+988,West Midlands,03/01/2018,106.1
+989,West Midlands,04/01/2018,106.2
+990,West Midlands,05/01/2018,106.3
+991,West Midlands,06/01/2018,106.4
+992,West Midlands,07/01/2018,106.5
+993,West Midlands,08/01/2018,106.7
+994,West Midlands,09/01/2018,106.9
+995,West Midlands,10/01/2018,107.1
+996,West Midlands,11/01/2018,107.4
+997,West Midlands,12/01/2018,107.6
+998,West Midlands,01/01/2019,107.6
+999,West Midlands,02/01/2019,107.8
+1000,West Midlands,03/01/2019,107.8
+1001,West Midlands,04/01/2019,108
+1002,West Midlands,05/01/2019,107.8
+1003,West Midlands,06/01/2019,108
+1004,West Midlands,07/01/2019,108.1
+1005,West Midlands,08/01/2019,108.3
+1006,West Midlands,09/01/2019,108.4
+1007,West Midlands,10/01/2019,108.6
+1008,West Midlands,11/01/2019,108.8
+1009,West Midlands,12/01/2019,109
+1010,West Midlands,01/01/2020,109.4
+1011,West Midlands,02/01/2020,109.5
+1012,West Midlands,03/01/2020,109.5
+1013,West Midlands,04/01/2020,109.9
+1014,West Midlands,05/01/2020,110.1
+1015,West Midlands,06/01/2020,110.2
+1016,West Midlands,07/01/2020,110.4
+1017,West Midlands,08/01/2020,110.6
+1018,West Midlands,09/01/2020,110.9
+1019,West Midlands,10/01/2020,111.1
+1020,West Midlands,11/01/2020,111.3
+1021,West Midlands,12/01/2020,111.4
+1022,West Midlands,01/01/2021,111.4
+1023,West Midlands,02/01/2021,111.5
+1024,West Midlands,03/01/2021,111.6
+1025,West Midlands,04/01/2021,112.2
+1026,West Midlands,05/01/2021,112.5
+1027,West Midlands,06/01/2021,112.9
+1028,West Midlands,07/01/2021,113
+1029,West Midlands,08/01/2021,113.1
+1030,West Midlands,09/01/2021,113.4
+1031,West Midlands,10/01/2021,113.6
+1032,West Midlands,11/01/2021,114.1
+1033,West Midlands,12/01/2021,114.5
+1034,West Midlands,01/01/2022,114.9
+1035,West Midlands,02/01/2022,115.1
+1036,West Midlands,03/01/2022,115.3
+1037,West Midlands,04/01/2022,115.6
+1038,West Midlands,05/01/2022,116
+1039,West Midlands,06/01/2022,116.4
+1040,West Midlands,07/01/2022,116.7
+1041,West Midlands,08/01/2022,117
+1042,West Midlands,09/01/2022,117.6
+1043,West Midlands,10/01/2022,118
+1044,West Midlands,11/01/2022,118.4
+1045,East ,01/01/2015,100
+1046,East ,02/01/2015,100.1
+1047,East ,03/01/2015,100.3
+1048,East ,04/01/2015,100.6
+1049,East ,05/01/2015,100.8
+1050,East ,06/01/2015,101.2
+1051,East ,07/01/2015,101.3
+1052,East ,08/01/2015,101.4
+1053,East ,09/01/2015,101.6
+1054,East ,10/01/2015,101.9
+1055,East ,11/01/2015,102.3
+1056,East ,12/01/2015,102.5
+1057,East ,01/01/2016,102.9
+1058,East ,02/01/2016,103.2
+1059,East ,03/01/2016,103.3
+1060,East ,04/01/2016,103.6
+1061,East ,05/01/2016,104.1
+1062,East ,06/01/2016,104.2
+1063,East ,07/01/2016,104.4
+1064,East ,08/01/2016,104.7
+1065,East ,09/01/2016,104.7
+1066,East ,10/01/2016,105.2
+1067,East ,11/01/2016,105.4
+1068,East ,12/01/2016,105.5
+1069,East ,01/01/2017,106
+1070,East ,02/01/2017,106
+1071,East ,03/01/2017,106.3
+1072,East ,04/01/2017,106.4
+1073,East ,05/01/2017,106.5
+1074,East ,06/01/2017,106.7
+1075,East ,07/01/2017,106.9
+1076,East ,08/01/2017,106.9
+1077,East ,09/01/2017,107.2
+1078,East ,10/01/2017,107.4
+1079,East ,11/01/2017,107.6
+1080,East ,12/01/2017,107.8
+1081,East ,01/01/2018,108.1
+1082,East ,02/01/2018,108.2
+1083,East ,03/01/2018,108.2
+1084,East ,04/01/2018,108.4
+1085,East ,05/01/2018,108.6
+1086,East ,06/01/2018,108.7
+1087,East ,07/01/2018,108.8
+1088,East ,08/01/2018,109
+1089,East ,09/01/2018,109.3
+1090,East ,10/01/2018,109.3
+1091,East ,11/01/2018,109.4
+1092,East ,12/01/2018,109.5
+1093,East ,01/01/2019,109.5
+1094,East ,02/01/2019,109.6
+1095,East ,03/01/2019,109.8
+1096,East ,04/01/2019,109.8
+1097,East ,05/01/2019,109.9
+1098,East ,06/01/2019,110.1
+1099,East ,07/01/2019,110.2
+1100,East ,08/01/2019,110.4
+1101,East ,09/01/2019,110.6
+1102,East ,10/01/2019,110.7
+1103,East ,11/01/2019,111
+1104,East ,12/01/2019,111.1
+1105,East ,01/01/2020,111.3
+1106,East ,02/01/2020,111.4
+1107,East ,03/01/2020,111.5
+1108,East ,04/01/2020,111.7
+1109,East ,05/01/2020,111.9
+1110,East ,06/01/2020,111.9
+1111,East ,07/01/2020,112
+1112,East ,08/01/2020,112.1
+1113,East ,09/01/2020,112.2
+1114,East ,10/01/2020,112.4
+1115,East ,11/01/2020,112.4
+1116,East ,12/01/2020,112.7
+1117,East ,01/01/2021,112.7
+1118,East ,02/01/2021,112.9
+1119,East ,03/01/2021,113
+1120,East ,04/01/2021,113.2
+1121,East ,05/01/2021,113.6
+1122,East ,06/01/2021,113.8
+1123,East ,07/01/2021,114.1
+1124,East ,08/01/2021,114.4
+1125,East ,09/01/2021,114.8
+1126,East ,10/01/2021,115.4
+1127,East ,11/01/2021,115.8
+1128,East ,12/01/2021,116.2
+1129,East ,01/01/2022,116.5
+1130,East ,02/01/2022,116.8
+1131,East ,03/01/2022,117.1
+1132,East ,04/01/2022,117.4
+1133,East ,05/01/2022,117.9
+1134,East ,06/01/2022,118.4
+1135,East ,07/01/2022,118.7
+1136,East ,08/01/2022,119
+1137,East ,09/01/2022,119.5
+1138,East ,10/01/2022,120
+1139,East ,11/01/2022,120.5
+1140,London,01/01/2015,100
+1141,London,02/01/2015,100.3
+1142,London,03/01/2015,100.6
+1143,London,04/01/2015,100.9
+1144,London,05/01/2015,101.5
+1145,London,06/01/2015,101.8
+1146,London,07/01/2015,102
+1147,London,08/01/2015,102.7
+1148,London,09/01/2015,102.8
+1149,London,10/01/2015,103
+1150,London,11/01/2015,103.3
+1151,London,12/01/2015,103.4
+1152,London,01/01/2016,103.9
+1153,London,02/01/2016,104.1
+1154,London,03/01/2016,104.4
+1155,London,04/01/2016,104.7
+1156,London,05/01/2016,104.8
+1157,London,06/01/2016,104.9
+1158,London,07/01/2016,105
+1159,London,08/01/2016,105.3
+1160,London,09/01/2016,105.5
+1161,London,10/01/2016,105.7
+1162,London,11/01/2016,105.7
+1163,London,12/01/2016,105.8
+1164,London,01/01/2017,106.1
+1165,London,02/01/2017,106.1
+1166,London,03/01/2017,106
+1167,London,04/01/2017,106.1
+1168,London,05/01/2017,106.3
+1169,London,06/01/2017,106.3
+1170,London,07/01/2017,106.5
+1171,London,08/01/2017,106.5
+1172,London,09/01/2017,106.5
+1173,London,10/01/2017,106.5
+1174,London,11/01/2017,106.4
+1175,London,12/01/2017,106.2
+1176,London,01/01/2018,106.3
+1177,London,02/01/2018,106.2
+1178,London,03/01/2018,106.1
+1179,London,04/01/2018,106.1
+1180,London,05/01/2018,106.1
+1181,London,06/01/2018,106.1
+1182,London,07/01/2018,106.2
+1183,London,08/01/2018,106.3
+1184,London,09/01/2018,106.3
+1185,London,10/01/2018,106.3
+1186,London,11/01/2018,106.3
+1187,London,12/01/2018,106.4
+1188,London,01/01/2019,106.4
+1189,London,02/01/2019,106.5
+1190,London,03/01/2019,106.6
+1191,London,04/01/2019,106.7
+1192,London,05/01/2019,107
+1193,London,06/01/2019,107
+1194,London,07/01/2019,107.2
+1195,London,08/01/2019,107.1
+1196,London,09/01/2019,107.2
+1197,London,10/01/2019,107.3
+1198,London,11/01/2019,107.4
+1199,London,12/01/2019,107.6
+1200,London,01/01/2020,107.7
+1201,London,02/01/2020,107.7
+1202,London,03/01/2020,107.9
+1203,London,04/01/2020,108
+1204,London,05/01/2020,108.2
+1205,London,06/01/2020,108.3
+1206,London,07/01/2020,108.3
+1207,London,08/01/2020,108.5
+1208,London,09/01/2020,108.6
+1209,London,10/01/2020,108.2
+1210,London,11/01/2020,108.5
+1211,London,12/01/2020,108.6
+1212,London,01/01/2021,108.6
+1213,London,02/01/2021,108.5
+1214,London,03/01/2021,108.5
+1215,London,04/01/2021,108.1
+1216,London,05/01/2021,108.1
+1217,London,06/01/2021,108.2
+1218,London,07/01/2021,108.2
+1219,London,08/01/2021,108.1
+1220,London,09/01/2021,108.3
+1221,London,10/01/2021,108.4
+1222,London,11/01/2021,108.4
+1223,London,12/01/2021,108.4
+1224,London,01/01/2022,108.6
+1225,London,02/01/2022,108.8
+1226,London,03/01/2022,108.9
+1227,London,04/01/2022,109.3
+1228,London,05/01/2022,109.7
+1229,London,06/01/2022,110.1
+1230,London,07/01/2022,110.5
+1231,London,08/01/2022,110.9
+1232,London,09/01/2022,111.3
+1233,London,10/01/2022,111.6
+1234,London,11/01/2022,112.2
+1235,South East,01/01/2015,100
+1236,South East,02/01/2015,100.2
+1237,South East,03/01/2015,100.3
+1238,South East,04/01/2015,100.6
+1239,South East,05/01/2015,100.7
+1240,South East,06/01/2015,100.9
+1241,South East,07/01/2015,101
+1242,South East,08/01/2015,101.3
+1243,South East,09/01/2015,101.6
+1244,South East,10/01/2015,101.8
+1245,South East,11/01/2015,102.1
+1246,South East,12/01/2015,102.5
+1247,South East,01/01/2016,102.9
+1248,South East,02/01/2016,103.1
+1249,South East,03/01/2016,103.3
+1250,South East,04/01/2016,103.7
+1251,South East,05/01/2016,104.1
+1252,South East,06/01/2016,104.3
+1253,South East,07/01/2016,104.5
+1254,South East,08/01/2016,104.7
+1255,South East,09/01/2016,105.1
+1256,South East,10/01/2016,105.2
+1257,South East,11/01/2016,105.6
+1258,South East,12/01/2016,106
+1259,South East,01/01/2017,106.3
+1260,South East,02/01/2017,106.5
+1261,South East,03/01/2017,106.7
+1262,South East,04/01/2017,106.9
+1263,South East,05/01/2017,107.1
+1264,South East,06/01/2017,107.2
+1265,South East,07/01/2017,107.3
+1266,South East,08/01/2017,107.4
+1267,South East,09/01/2017,107.7
+1268,South East,10/01/2017,107.8
+1269,South East,11/01/2017,108
+1270,South East,12/01/2017,108.2
+1271,South East,01/01/2018,108.2
+1272,South East,02/01/2018,108.3
+1273,South East,03/01/2018,108.5
+1274,South East,04/01/2018,108.7
+1275,South East,05/01/2018,108.8
+1276,South East,06/01/2018,108.8
+1277,South East,07/01/2018,109
+1278,South East,08/01/2018,109.1
+1279,South East,09/01/2018,109.2
+1280,South East,10/01/2018,109.2
+1281,South East,11/01/2018,109.3
+1282,South East,12/01/2018,109.7
+1283,South East,01/01/2019,109.9
+1284,South East,02/01/2019,110.1
+1285,South East,03/01/2019,110.2
+1286,South East,04/01/2019,110.4
+1287,South East,05/01/2019,110.4
+1288,South East,06/01/2019,110.5
+1289,South East,07/01/2019,110.7
+1290,South East,08/01/2019,110.8
+1291,South East,09/01/2019,110.9
+1292,South East,10/01/2019,111.1
+1293,South East,11/01/2019,111.2
+1294,South East,12/01/2019,111.2
+1295,South East,01/01/2020,111.4
+1296,South East,02/01/2020,111.4
+1297,South East,03/01/2020,111.4
+1298,South East,04/01/2020,111.5
+1299,South East,05/01/2020,111.7
+1300,South East,06/01/2020,111.7
+1301,South East,07/01/2020,111.8
+1302,South East,08/01/2020,111.9
+1303,South East,09/01/2020,112.1
+1304,South East,10/01/2020,112.3
+1305,South East,11/01/2020,112.2
+1306,South East,12/01/2020,112.4
+1307,South East,01/01/2021,112.5
+1308,South East,02/01/2021,112.6
+1309,South East,03/01/2021,112.7
+1310,South East,04/01/2021,112.9
+1311,South East,05/01/2021,113
+1312,South East,06/01/2021,113.2
+1313,South East,07/01/2021,113.5
+1314,South East,08/01/2021,113.7
+1315,South East,09/01/2021,113.9
+1316,South East,10/01/2021,114.3
+1317,South East,11/01/2021,114.5
+1318,South East,12/01/2021,115
+1319,South East,01/01/2022,115.3
+1320,South East,02/01/2022,115.6
+1321,South East,03/01/2022,115.9
+1322,South East,04/01/2022,116.2
+1323,South East,05/01/2022,116.5
+1324,South East,06/01/2022,116.9
+1325,South East,07/01/2022,117.4
+1326,South East,08/01/2022,117.6
+1327,South East,09/01/2022,117.9
+1328,South East,10/01/2022,118.3
+1329,South East,11/01/2022,118.7
+1330,South West,01/01/2015,100
+1331,South West,02/01/2015,100.1
+1332,South West,03/01/2015,100.2
+1333,South West,04/01/2015,100.4
+1334,South West,05/01/2015,100.5
+1335,South West,06/01/2015,100.6
+1336,South West,07/01/2015,100.6
+1337,South West,08/01/2015,100.9
+1338,South West,09/01/2015,101
+1339,South West,10/01/2015,101.1
+1340,South West,11/01/2015,101.3
+1341,South West,12/01/2015,101.1
+1342,South West,01/01/2016,101.3
+1343,South West,02/01/2016,101.5
+1344,South West,03/01/2016,101.8
+1345,South West,04/01/2016,101.9
+1346,South West,05/01/2016,102.1
+1347,South West,06/01/2016,102.3
+1348,South West,07/01/2016,102.4
+1349,South West,08/01/2016,102.9
+1350,South West,09/01/2016,103.2
+1351,South West,10/01/2016,103.5
+1352,South West,11/01/2016,103.8
+1353,South West,12/01/2016,104
+1354,South West,01/01/2017,104.2
+1355,South West,02/01/2017,104.3
+1356,South West,03/01/2017,104.4
+1357,South West,04/01/2017,104.5
+1358,South West,05/01/2017,104.7
+1359,South West,06/01/2017,104.7
+1360,South West,07/01/2017,105
+1361,South West,08/01/2017,105.1
+1362,South West,09/01/2017,105.4
+1363,South West,10/01/2017,105.7
+1364,South West,11/01/2017,106
+1365,South West,12/01/2017,106.2
+1366,South West,01/01/2018,106.4
+1367,South West,02/01/2018,106.5
+1368,South West,03/01/2018,106.6
+1369,South West,04/01/2018,106.7
+1370,South West,05/01/2018,106.8
+1371,South West,06/01/2018,106.9
+1372,South West,07/01/2018,107
+1373,South West,08/01/2018,107.3
+1374,South West,09/01/2018,107.4
+1375,South West,10/01/2018,107.6
+1376,South West,11/01/2018,107.6
+1377,South West,12/01/2018,107.9
+1378,South West,01/01/2019,108.2
+1379,South West,02/01/2019,108.4
+1380,South West,03/01/2019,108.5
+1381,South West,04/01/2019,108.6
+1382,South West,05/01/2019,108.9
+1383,South West,06/01/2019,109
+1384,South West,07/01/2019,109.2
+1385,South West,08/01/2019,109.4
+1386,South West,09/01/2019,109.6
+1387,South West,10/01/2019,109.9
+1388,South West,11/01/2019,110.1
+1389,South West,12/01/2019,110.3
+1390,South West,01/01/2020,110.8
+1391,South West,02/01/2020,110.9
+1392,South West,03/01/2020,111
+1393,South West,04/01/2020,111.4
+1394,South West,05/01/2020,111.6
+1395,South West,06/01/2020,111.8
+1396,South West,07/01/2020,111.9
+1397,South West,08/01/2020,112.1
+1398,South West,09/01/2020,112.3
+1399,South West,10/01/2020,112.5
+1400,South West,11/01/2020,112.7
+1401,South West,12/01/2020,113.1
+1402,South West,01/01/2021,113.2
+1403,South West,02/01/2021,113.5
+1404,South West,03/01/2021,113.8
+1405,South West,04/01/2021,114
+1406,South West,05/01/2021,114.2
+1407,South West,06/01/2021,114.4
+1408,South West,07/01/2021,114.7
+1409,South West,08/01/2021,115.1
+1410,South West,09/01/2021,115.4
+1411,South West,10/01/2021,115.9
+1412,South West,11/01/2021,116.2
+1413,South West,12/01/2021,116.6
+1414,South West,01/01/2022,117.2
+1415,South West,02/01/2022,117.4
+1416,South West,03/01/2022,117.7
+1417,South West,04/01/2022,118.2
+1418,South West,05/01/2022,118.7
+1419,South West,06/01/2022,119
+1420,South West,07/01/2022,119.3
+1421,South West,08/01/2022,120
+1422,South West,09/01/2022,120.5
+1423,South West,10/01/2022,120.9
+1424,South West,11/01/2022,121.3
+1425,UK excluding London,01/01/2015,100
+1426,UK excluding London,02/01/2015,100.1
+1427,UK excluding London,03/01/2015,100.2
+1428,UK excluding London,04/01/2015,100.4
+1429,UK excluding London,05/01/2015,100.5
+1430,UK excluding London,06/01/2015,100.6
+1431,UK excluding London,07/01/2015,100.7
+1432,UK excluding London,08/01/2015,100.9
+1433,UK excluding London,09/01/2015,101.1
+1434,UK excluding London,10/01/2015,101.2
+1435,UK excluding London,11/01/2015,101.4
+1436,UK excluding London,12/01/2015,101.6
+1437,UK excluding London,01/01/2016,101.8
+1438,UK excluding London,02/01/2016,102
+1439,UK excluding London,03/01/2016,102.1
+1440,UK excluding London,04/01/2016,102.3
+1441,UK excluding London,05/01/2016,102.6
+1442,UK excluding London,06/01/2016,102.7
+1443,UK excluding London,07/01/2016,102.8
+1444,UK excluding London,08/01/2016,103
+1445,UK excluding London,09/01/2016,103.2
+1446,UK excluding London,10/01/2016,103.4
+1447,UK excluding London,11/01/2016,103.7
+1448,UK excluding London,12/01/2016,103.9
+1449,UK excluding London,01/01/2017,104.1
+1450,UK excluding London,02/01/2017,104.2
+1451,UK excluding London,03/01/2017,104.3
+1452,UK excluding London,04/01/2017,104.5
+1453,UK excluding London,05/01/2017,104.6
+1454,UK excluding London,06/01/2017,104.7
+1455,UK excluding London,07/01/2017,104.9
+1456,UK excluding London,08/01/2017,105
+1457,UK excluding London,09/01/2017,105.2
+1458,UK excluding London,10/01/2017,105.3
+1459,UK excluding London,11/01/2017,105.5
+1460,UK excluding London,12/01/2017,105.7
+1461,UK excluding London,01/01/2018,105.8
+1462,UK excluding London,02/01/2018,105.9
+1463,UK excluding London,03/01/2018,106
+1464,UK excluding London,04/01/2018,106.1
+1465,UK excluding London,05/01/2018,106.2
+1466,UK excluding London,06/01/2018,106.4
+1467,UK excluding London,07/01/2018,106.5
+1468,UK excluding London,08/01/2018,106.6
+1469,UK excluding London,09/01/2018,106.8
+1470,UK excluding London,10/01/2018,106.9
+1471,UK excluding London,11/01/2018,107
+1472,UK excluding London,12/01/2018,107.2
+1473,UK excluding London,01/01/2019,107.4
+1474,UK excluding London,02/01/2019,107.5
+1475,UK excluding London,03/01/2019,107.6
+1476,UK excluding London,04/01/2019,107.7
+1477,UK excluding London,05/01/2019,107.8
+1478,UK excluding London,06/01/2019,108
+1479,UK excluding London,07/01/2019,108.1
+1480,UK excluding London,08/01/2019,108.2
+1481,UK excluding London,09/01/2019,108.4
+1482,UK excluding London,10/01/2019,108.5
+1483,UK excluding London,11/01/2019,108.7
+1484,UK excluding London,12/01/2019,108.8
+1485,UK excluding London,01/01/2020,109.1
+1486,UK excluding London,02/01/2020,109.1
+1487,UK excluding London,03/01/2020,109.2
+1488,UK excluding London,04/01/2020,109.4
+1489,UK excluding London,05/01/2020,109.6
+1490,UK excluding London,06/01/2020,109.7
+1491,UK excluding London,07/01/2020,109.8
+1492,UK excluding London,08/01/2020,109.9
+1493,UK excluding London,09/01/2020,110.1
+1494,UK excluding London,10/01/2020,110.3
+1495,UK excluding London,11/01/2020,110.4
+1496,UK excluding London,12/01/2020,110.6
+1497,UK excluding London,01/01/2021,110.7
+1498,UK excluding London,02/01/2021,110.9
+1499,UK excluding London,03/01/2021,111.1
+1500,UK excluding London,04/01/2021,111.3
+1501,UK excluding London,05/01/2021,111.5
+1502,UK excluding London,06/01/2021,111.7
+1503,UK excluding London,07/01/2021,111.9
+1504,UK excluding London,08/01/2021,112.2
+1505,UK excluding London,09/01/2021,112.5
+1506,UK excluding London,10/01/2021,112.8
+1507,UK excluding London,11/01/2021,113.2
+1508,UK excluding London,12/01/2021,113.7
+1509,UK excluding London,01/01/2022,114.1
+1510,UK excluding London,02/01/2022,114.3
+1511,UK excluding London,03/01/2022,114.6
+1512,UK excluding London,04/01/2022,115
+1513,UK excluding London,05/01/2022,115.4
+1514,UK excluding London,06/01/2022,115.8
+1515,UK excluding London,07/01/2022,116.2
+1516,UK excluding London,08/01/2022,116.6
+1517,UK excluding London,09/01/2022,117.1
+1518,UK excluding London,10/01/2022,117.5
+1519,UK excluding London,11/01/2022,118
+1520,GB excluding London,01/01/2015,100
+1521,GB excluding London,02/01/2015,100.1
+1522,GB excluding London,03/01/2015,100.2
+1523,GB excluding London,04/01/2015,100.4
+1524,GB excluding London,05/01/2015,100.5
+1525,GB excluding London,06/01/2015,100.7
+1526,GB excluding London,07/01/2015,100.7
+1527,GB excluding London,08/01/2015,101
+1528,GB excluding London,09/01/2015,101.1
+1529,GB excluding London,10/01/2015,101.2
+1530,GB excluding London,11/01/2015,101.4
+1531,GB excluding London,12/01/2015,101.6
+1532,GB excluding London,01/01/2016,101.8
+1533,GB excluding London,02/01/2016,102
+1534,GB excluding London,03/01/2016,102.1
+1535,GB excluding London,04/01/2016,102.4
+1536,GB excluding London,05/01/2016,102.6
+1537,GB excluding London,06/01/2016,102.7
+1538,GB excluding London,07/01/2016,102.8
+1539,GB excluding London,08/01/2016,103.1
+1540,GB excluding London,09/01/2016,103.2
+1541,GB excluding London,10/01/2016,103.4
+1542,GB excluding London,11/01/2016,103.7
+1543,GB excluding London,12/01/2016,103.9
+1544,GB excluding London,01/01/2017,104.1
+1545,GB excluding London,02/01/2017,104.2
+1546,GB excluding London,03/01/2017,104.4
+1547,GB excluding London,04/01/2017,104.5
+1548,GB excluding London,05/01/2017,104.6
+1549,GB excluding London,06/01/2017,104.7
+1550,GB excluding London,07/01/2017,104.9
+1551,GB excluding London,08/01/2017,105
+1552,GB excluding London,09/01/2017,105.2
+1553,GB excluding London,10/01/2017,105.4
+1554,GB excluding London,11/01/2017,105.5
+1555,GB excluding London,12/01/2017,105.7
+1556,GB excluding London,01/01/2018,105.8
+1557,GB excluding London,02/01/2018,105.9
+1558,GB excluding London,03/01/2018,106.1
+1559,GB excluding London,04/01/2018,106.2
+1560,GB excluding London,05/01/2018,106.3
+1561,GB excluding London,06/01/2018,106.4
+1562,GB excluding London,07/01/2018,106.5
+1563,GB excluding London,08/01/2018,106.6
+1564,GB excluding London,09/01/2018,106.8
+1565,GB excluding London,10/01/2018,106.9
+1566,GB excluding London,11/01/2018,107
+1567,GB excluding London,12/01/2018,107.2
+1568,GB excluding London,01/01/2019,107.4
+1569,GB excluding London,02/01/2019,107.5
+1570,GB excluding London,03/01/2019,107.6
+1571,GB excluding London,04/01/2019,107.7
+1572,GB excluding London,05/01/2019,107.8
+1573,GB excluding London,06/01/2019,108
+1574,GB excluding London,07/01/2019,108.1
+1575,GB excluding London,08/01/2019,108.2
+1576,GB excluding London,09/01/2019,108.4
+1577,GB excluding London,10/01/2019,108.5
+1578,GB excluding London,11/01/2019,108.7
+1579,GB excluding London,12/01/2019,108.8
+1580,GB excluding London,01/01/2020,109.1
+1581,GB excluding London,02/01/2020,109.1
+1582,GB excluding London,03/01/2020,109.2
+1583,GB excluding London,04/01/2020,109.4
+1584,GB excluding London,05/01/2020,109.6
+1585,GB excluding London,06/01/2020,109.7
+1586,GB excluding London,07/01/2020,109.8
+1587,GB excluding London,08/01/2020,109.9
+1588,GB excluding London,09/01/2020,110.1
+1589,GB excluding London,10/01/2020,110.3
+1590,GB excluding London,11/01/2020,110.4
+1591,GB excluding London,12/01/2020,110.6
+1592,GB excluding London,01/01/2021,110.7
+1593,GB excluding London,02/01/2021,110.8
+1594,GB excluding London,03/01/2021,111
+1595,GB excluding London,04/01/2021,111.2
+1596,GB excluding London,05/01/2021,111.5
+1597,GB excluding London,06/01/2021,111.6
+1598,GB excluding London,07/01/2021,111.8
+1599,GB excluding London,08/01/2021,112.1
+1600,GB excluding London,09/01/2021,112.4
+1601,GB excluding London,10/01/2021,112.7
+1602,GB excluding London,11/01/2021,113.1
+1603,GB excluding London,12/01/2021,113.5
+1604,GB excluding London,01/01/2022,113.9
+1605,GB excluding London,02/01/2022,114.2
+1606,GB excluding London,03/01/2022,114.4
+1607,GB excluding London,04/01/2022,114.8
+1608,GB excluding London,05/01/2022,115.2
+1609,GB excluding London,06/01/2022,115.6
+1610,GB excluding London,07/01/2022,115.9
+1611,GB excluding London,08/01/2022,116.3
+1612,GB excluding London,09/01/2022,116.8
+1613,GB excluding London,10/01/2022,117.2
+1614,GB excluding London,11/01/2022,117.7
+1615,England excluding London,01/01/2015,100
+1616,England excluding London,02/01/2015,100.1
+1617,England excluding London,03/01/2015,100.2
+1618,England excluding London,04/01/2015,100.4
+1619,England excluding London,05/01/2015,100.5
+1620,England excluding London,06/01/2015,100.7
+1621,England excluding London,07/01/2015,100.8
+1622,England excluding London,08/01/2015,101
+1623,England excluding London,09/01/2015,101.2
+1624,England excluding London,10/01/2015,101.3
+1625,England excluding London,11/01/2015,101.6
+1626,England excluding London,12/01/2015,101.7
+1627,England excluding London,01/01/2016,102
+1628,England excluding London,02/01/2016,102.2
+1629,England excluding London,03/01/2016,102.4
+1630,England excluding London,04/01/2016,102.6
+1631,England excluding London,05/01/2016,102.8
+1632,England excluding London,06/01/2016,102.9
+1633,England excluding London,07/01/2016,103.1
+1634,England excluding London,08/01/2016,103.4
+1635,England excluding London,09/01/2016,103.6
+1636,England excluding London,10/01/2016,103.8
+1637,England excluding London,11/01/2016,104.1
+1638,England excluding London,12/01/2016,104.3
+1639,England excluding London,01/01/2017,104.6
+1640,England excluding London,02/01/2017,104.7
+1641,England excluding London,03/01/2017,104.8
+1642,England excluding London,04/01/2017,105
+1643,England excluding London,05/01/2017,105.1
+1644,England excluding London,06/01/2017,105.2
+1645,England excluding London,07/01/2017,105.4
+1646,England excluding London,08/01/2017,105.5
+1647,England excluding London,09/01/2017,105.7
+1648,England excluding London,10/01/2017,105.9
+1649,England excluding London,11/01/2017,106.1
+1650,England excluding London,12/01/2017,106.2
+1651,England excluding London,01/01/2018,106.4
+1652,England excluding London,02/01/2018,106.5
+1653,England excluding London,03/01/2018,106.6
+1654,England excluding London,04/01/2018,106.8
+1655,England excluding London,05/01/2018,106.9
+1656,England excluding London,06/01/2018,107
+1657,England excluding London,07/01/2018,107.1
+1658,England excluding London,08/01/2018,107.3
+1659,England excluding London,09/01/2018,107.4
+1660,England excluding London,10/01/2018,107.5
+1661,England excluding London,11/01/2018,107.7
+1662,England excluding London,12/01/2018,107.9
+1663,England excluding London,01/01/2019,108.1
+1664,England excluding London,02/01/2019,108.2
+1665,England excluding London,03/01/2019,108.3
+1666,England excluding London,04/01/2019,108.4
+1667,England excluding London,05/01/2019,108.5
+1668,England excluding London,06/01/2019,108.7
+1669,England excluding London,07/01/2019,108.8
+1670,England excluding London,08/01/2019,108.9
+1671,England excluding London,09/01/2019,109.1
+1672,England excluding London,10/01/2019,109.3
+1673,England excluding London,11/01/2019,109.5
+1674,England excluding London,12/01/2019,109.6
+1675,England excluding London,01/01/2020,109.8
+1676,England excluding London,02/01/2020,109.9
+1677,England excluding London,03/01/2020,110
+1678,England excluding London,04/01/2020,110.2
+1679,England excluding London,05/01/2020,110.4
+1680,England excluding London,06/01/2020,110.5
+1681,England excluding London,07/01/2020,110.6
+1682,England excluding London,08/01/2020,110.7
+1683,England excluding London,09/01/2020,110.9
+1684,England excluding London,10/01/2020,111.2
+1685,England excluding London,11/01/2020,111.2
+1686,England excluding London,12/01/2020,111.4
+1687,England excluding London,01/01/2021,111.5
+1688,England excluding London,02/01/2021,111.7
+1689,England excluding London,03/01/2021,111.9
+1690,England excluding London,04/01/2021,112.1
+1691,England excluding London,05/01/2021,112.3
+1692,England excluding London,06/01/2021,112.5
+1693,England excluding London,07/01/2021,112.8
+1694,England excluding London,08/01/2021,113
+1695,England excluding London,09/01/2021,113.3
+1696,England excluding London,10/01/2021,113.7
+1697,England excluding London,11/01/2021,114.1
+1698,England excluding London,12/01/2021,114.5
+1699,England excluding London,01/01/2022,114.9
+1700,England excluding London,02/01/2022,115.2
+1701,England excluding London,03/01/2022,115.4
+1702,England excluding London,04/01/2022,115.8
+1703,England excluding London,05/01/2022,116.2
+1704,England excluding London,06/01/2022,116.6
+1705,England excluding London,07/01/2022,116.9
+1706,England excluding London,08/01/2022,117.4
+1707,England excluding London,09/01/2022,117.8
+1708,England excluding London,10/01/2022,118.3
+1709,England excluding London,11/01/2022,118.8
