@@ -1,0 +1,125 @@
+,Year,All Dwellings,Other Public Sector Dwellings,Type of Dwelling,Number of Dwellings
+0,1991,19671,167,Owner Occupied,13230
+1,1991,19671,167,Rented Privately or with a job or business,1767
+2,1991,19671,167,Rented from Private Registered Providers,608
+3,1991,19671,167,Rented from Local Authorities,3899
+4,1992,19836,151,Owner Occupied,13388
+5,1992,19836,151,Rented Privately or with a job or business,1806
+6,1992,19836,151,Rented from Private Registered Providers,646
+7,1992,19836,151,Rented from Local Authorities,3844
+8,1993,19987,153,Owner Occupied,13493
+9,1993,19987,153,Rented Privately or with a job or business,1867
+10,1993,19987,153,Rented from Private Registered Providers,714
+11,1993,19987,153,Rented from Local Authorities,3760
+12,1994,20139,150,Owner Occupied,13616
+13,1994,20139,150,Rented Privately or with a job or business,1929
+14,1994,20139,150,Rented from Private Registered Providers,779
+15,1994,20139,150,Rented from Local Authorities,3666
+16,1995,20305,145,Owner Occupied,13741
+17,1995,20305,145,Rented Privately or with a job or business,1998
+18,1995,20305,145,Rented from Private Registered Providers,857
+19,1995,20305,145,Rented from Local Authorities,3565
+20,1996,20468,141,Owner Occupied,13842
+21,1996,20468,141,Rented Privately or with a job or business,2073
+22,1996,20468,141,Rented from Private Registered Providers,942
+23,1996,20468,141,Rented from Local Authorities,3470
+24,1997,20622,132,Owner Occupied,13979
+25,1997,20622,132,Rented Privately or with a job or business,2125
+26,1997,20622,132,Rented from Private Registered Providers,985
+27,1997,20622,132,Rented from Local Authorities,3401
+28,1998,20778,121,Owner Occupied,14187
+29,1998,20778,121,Rented Privately or with a job or business,2121
+30,1998,20778,121,Rented from Private Registered Providers,1040
+31,1998,20778,121,Rented from Local Authorities,3309
+32,1999,20927,110,Owner Occupied,14408
+33,1999,20927,110,Rented Privately or with a job or business,2086
+34,1999,20927,110,Rented from Private Registered Providers,1146
+35,1999,20927,110,Rented from Local Authorities,3178
+36,2000,21075,101,Owner Occupied,14600
+37,2000,21075,101,Rented Privately or with a job or business,2089
+38,2000,21075,101,Rented from Private Registered Providers,1273
+39,2000,21075,101,Rented from Local Authorities,3012
+40,2001,21207,103,Owner Occupied,14735
+41,2001,21207,103,Rented Privately or with a job or business,2133
+42,2001,21207,103,Rented from Private Registered Providers,1424
+43,2001,21207,103,Rented from Local Authorities,2812
+44,2002,21354,112,Owner Occupied,14846
+45,2002,21354,112,Rented Privately or with a job or business,2197
+46,2002,21354,112,Rented from Private Registered Providers,1492
+47,2002,21354,112,Rented from Local Authorities,2706
+48,2003,21513,104,Owner Occupied,14752
+49,2003,21513,104,Rented Privately or with a job or business,2549
+50,2003,21513,104,Rented from Private Registered Providers,1651
+51,2003,21513,104,Rented from Local Authorities,2457
+52,2004,21684,83,Owner Occupied,14986
+53,2004,21684,83,Rented Privately or with a job or business,2578
+54,2004,21684,83,Rented from Private Registered Providers,1702
+55,2004,21684,83,Rented from Local Authorities,2335
+56,2005,21870,82,Owner Occupied,15100
+57,2005,21870,82,Rented Privately or with a job or business,2720
+58,2005,21870,82,Rented from Private Registered Providers,1802
+59,2005,21870,82,Rented from Local Authorities,2166
+60,2006,22073,82,Owner Occupied,15052
+61,2006,22073,82,Rented Privately or with a job or business,2987
+62,2006,22073,82,Rented from Private Registered Providers,1865
+63,2006,22073,82,Rented from Local Authorities,2087
+64,2007,22288,75,Owner Occupied,15093
+65,2007,22288,75,Rented Privately or with a job or business,3182
+66,2007,22288,75,Rented from Private Registered Providers,1951
+67,2007,22288,75,Rented from Local Authorities,1987
+68,2008,22511,74,Owner Occupied,15067
+69,2008,22511,74,Rented Privately or with a job or business,3443
+70,2008,22511,74,Rented from Private Registered Providers,2056
+71,2008,22511,74,Rented from Local Authorities,1870
+72,2009,22694,74,Owner Occupied,14968
+73,2009,22694,74,Rented Privately or with a job or business,3705
+74,2009,22694,74,Rented from Private Registered Providers,2128
+75,2009,22694,74,Rented from Local Authorities,1820
+76,2010,22839,66,Owner Occupied,14895
+77,2010,22839,66,Rented Privately or with a job or business,3912
+78,2010,22839,66,Rented from Private Registered Providers,2180
+79,2010,22839,66,Rented from Local Authorities,1786
+80,2011,22976,63,Owner Occupied,14827
+81,2011,22976,63,Rented Privately or with a job or business,4105
+82,2011,22976,63,Rented from Private Registered Providers,2255
+83,2011,22976,63,Rented from Local Authorities,1726
+84,2012,23111,75,Owner Occupied,14754
+85,2012,23111,75,Rented Privately or with a job or business,4286
+86,2012,23111,75,Rented from Private Registered Providers,2304
+87,2012,23111,75,Rented from Local Authorities,1693
+88,2013,23236,73,Owner Occupied,14685
+89,2013,23236,73,Rented Privately or with a job or business,4465
+90,2013,23236,73,Rented from Private Registered Providers,2331
+91,2013,23236,73,Rented from Local Authorities,1682
+92,2014,23372,64,Owner Occupied,14674
+93,2014,23372,64,Rented Privately or with a job or business,4623
+94,2014,23372,64,Rented from Private Registered Providers,2343
+95,2014,23372,64,Rented from Local Authorities,1669
+96,2015,23543,55,Owner Occupied,14684
+97,2015,23543,55,Rented Privately or with a job or business,4773
+98,2015,23543,55,Rented from Private Registered Providers,2387
+99,2015,23543,55,Rented from Local Authorities,1643
+100,2016,23733,57,Owner Occupied,14801
+101,2016,23733,57,Rented Privately or with a job or business,4832
+102,2016,23733,57,Rented from Private Registered Providers,2430
+103,2016,23733,57,Rented from Local Authorities,1612
+104,2017,23950,56,Owner Occupied,15050
+105,2017,23950,56,Rented Privately or with a job or business,4798
+106,2017,23950,56,Rented from Private Registered Providers,2444
+107,2017,23950,56,Rented from Local Authorities,1602
+108,2018,24172,43,Owner Occupied,15311
+109,2018,24172,43,Rented Privately or with a job or business,4773
+110,2018,24172,43,Rented from Private Registered Providers,2452
+111,2018,24172,43,Rented from Local Authorities,1592
+112,2019,24414,42,Owner Occupied,15544
+113,2019,24414,42,Rented Privately or with a job or business,4762
+114,2019,24414,42,Rented from Private Registered Providers,2479
+115,2019,24414,42,Rented from Local Authorities,1587
+116,2020,24657,33,Owner Occupied,15723
+117,2020,24657,33,Rented Privately or with a job or business,4813
+118,2020,24657,33,Rented from Private Registered Providers,2505
+119,2020,24657,33,Rented from Local Authorities,1583
+120,2021,24873,34,Owner Occupied,15858
+121,2021,24873,34,Rented Privately or with a job or business,4876
+122,2021,24873,34,Rented from Private Registered Providers,2524
+123,2021,24873,34,Rented from Local Authorities,1581
