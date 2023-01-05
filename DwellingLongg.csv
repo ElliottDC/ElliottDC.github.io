@@ -1,0 +1,187 @@
+,Year,Type of Dwelling,Number of Dwellings
+0,1991,Owner Occupied,13230
+1,1991,Rented Privately or with a job or business,1767
+2,1991,Rented from Private Registered Providers,608
+3,1991,Rented from Local Authorities,3899
+4,1991,Other Public Sector Dwellings,167
+5,1991,All Dwellings,19671
+6,1992,Owner Occupied,13388
+7,1992,Rented Privately or with a job or business,1806
+8,1992,Rented from Private Registered Providers,646
+9,1992,Rented from Local Authorities,3844
+10,1992,Other Public Sector Dwellings,151
+11,1992,All Dwellings,19836
+12,1993,Owner Occupied,13493
+13,1993,Rented Privately or with a job or business,1867
+14,1993,Rented from Private Registered Providers,714
+15,1993,Rented from Local Authorities,3760
+16,1993,Other Public Sector Dwellings,153
+17,1993,All Dwellings,19987
+18,1994,Owner Occupied,13616
+19,1994,Rented Privately or with a job or business,1929
+20,1994,Rented from Private Registered Providers,779
+21,1994,Rented from Local Authorities,3666
+22,1994,Other Public Sector Dwellings,150
+23,1994,All Dwellings,20139
+24,1995,Owner Occupied,13741
+25,1995,Rented Privately or with a job or business,1998
+26,1995,Rented from Private Registered Providers,857
+27,1995,Rented from Local Authorities,3565
+28,1995,Other Public Sector Dwellings,145
+29,1995,All Dwellings,20305
+30,1996,Owner Occupied,13842
+31,1996,Rented Privately or with a job or business,2073
+32,1996,Rented from Private Registered Providers,942
+33,1996,Rented from Local Authorities,3470
+34,1996,Other Public Sector Dwellings,141
+35,1996,All Dwellings,20468
+36,1997,Owner Occupied,13979
+37,1997,Rented Privately or with a job or business,2125
+38,1997,Rented from Private Registered Providers,985
+39,1997,Rented from Local Authorities,3401
+40,1997,Other Public Sector Dwellings,132
+41,1997,All Dwellings,20622
+42,1998,Owner Occupied,14187
+43,1998,Rented Privately or with a job or business,2121
+44,1998,Rented from Private Registered Providers,1040
+45,1998,Rented from Local Authorities,3309
+46,1998,Other Public Sector Dwellings,121
+47,1998,All Dwellings,20778
+48,1999,Owner Occupied,14408
+49,1999,Rented Privately or with a job or business,2086
+50,1999,Rented from Private Registered Providers,1146
+51,1999,Rented from Local Authorities,3178
+52,1999,Other Public Sector Dwellings,110
+53,1999,All Dwellings,20927
+54,2000,Owner Occupied,14600
+55,2000,Rented Privately or with a job or business,2089
+56,2000,Rented from Private Registered Providers,1273
+57,2000,Rented from Local Authorities,3012
+58,2000,Other Public Sector Dwellings,101
+59,2000,All Dwellings,21075
+60,2001,Owner Occupied,14735
+61,2001,Rented Privately or with a job or business,2133
+62,2001,Rented from Private Registered Providers,1424
+63,2001,Rented from Local Authorities,2812
+64,2001,Other Public Sector Dwellings,103
+65,2001,All Dwellings,21207
+66,2002,Owner Occupied,14846
+67,2002,Rented Privately or with a job or business,2197
+68,2002,Rented from Private Registered Providers,1492
+69,2002,Rented from Local Authorities,2706
+70,2002,Other Public Sector Dwellings,112
+71,2002,All Dwellings,21354
+72,2003,Owner Occupied,14752
+73,2003,Rented Privately or with a job or business,2549
+74,2003,Rented from Private Registered Providers,1651
+75,2003,Rented from Local Authorities,2457
+76,2003,Other Public Sector Dwellings,104
+77,2003,All Dwellings,21513
+78,2004,Owner Occupied,14986
+79,2004,Rented Privately or with a job or business,2578
+80,2004,Rented from Private Registered Providers,1702
+81,2004,Rented from Local Authorities,2335
+82,2004,Other Public Sector Dwellings,83
+83,2004,All Dwellings,21684
+84,2005,Owner Occupied,15100
+85,2005,Rented Privately or with a job or business,2720
+86,2005,Rented from Private Registered Providers,1802
+87,2005,Rented from Local Authorities,2166
+88,2005,Other Public Sector Dwellings,82
+89,2005,All Dwellings,21870
+90,2006,Owner Occupied,15052
+91,2006,Rented Privately or with a job or business,2987
+92,2006,Rented from Private Registered Providers,1865
+93,2006,Rented from Local Authorities,2087
+94,2006,Other Public Sector Dwellings,82
+95,2006,All Dwellings,22073
+96,2007,Owner Occupied,15093
+97,2007,Rented Privately or with a job or business,3182
+98,2007,Rented from Private Registered Providers,1951
+99,2007,Rented from Local Authorities,1987
+100,2007,Other Public Sector Dwellings,75
+101,2007,All Dwellings,22288
+102,2008,Owner Occupied,15067
+103,2008,Rented Privately or with a job or business,3443
+104,2008,Rented from Private Registered Providers,2056
+105,2008,Rented from Local Authorities,1870
+106,2008,Other Public Sector Dwellings,74
+107,2008,All Dwellings,22511
+108,2009,Owner Occupied,14968
+109,2009,Rented Privately or with a job or business,3705
+110,2009,Rented from Private Registered Providers,2128
+111,2009,Rented from Local Authorities,1820
+112,2009,Other Public Sector Dwellings,74
+113,2009,All Dwellings,22694
+114,2010,Owner Occupied,14895
+115,2010,Rented Privately or with a job or business,3912
+116,2010,Rented from Private Registered Providers,2180
+117,2010,Rented from Local Authorities,1786
+118,2010,Other Public Sector Dwellings,66
+119,2010,All Dwellings,22839
+120,2011,Owner Occupied,14827
+121,2011,Rented Privately or with a job or business,4105
+122,2011,Rented from Private Registered Providers,2255
+123,2011,Rented from Local Authorities,1726
+124,2011,Other Public Sector Dwellings,63
+125,2011,All Dwellings,22976
+126,2012,Owner Occupied,14754
+127,2012,Rented Privately or with a job or business,4286
+128,2012,Rented from Private Registered Providers,2304
+129,2012,Rented from Local Authorities,1693
+130,2012,Other Public Sector Dwellings,75
+131,2012,All Dwellings,23111
+132,2013,Owner Occupied,14685
+133,2013,Rented Privately or with a job or business,4465
+134,2013,Rented from Private Registered Providers,2331
+135,2013,Rented from Local Authorities,1682
+136,2013,Other Public Sector Dwellings,73
+137,2013,All Dwellings,23236
+138,2014,Owner Occupied,14674
+139,2014,Rented Privately or with a job or business,4623
+140,2014,Rented from Private Registered Providers,2343
+141,2014,Rented from Local Authorities,1669
+142,2014,Other Public Sector Dwellings,64
+143,2014,All Dwellings,23372
+144,2015,Owner Occupied,14684
+145,2015,Rented Privately or with a job or business,4773
+146,2015,Rented from Private Registered Providers,2387
+147,2015,Rented from Local Authorities,1643
+148,2015,Other Public Sector Dwellings,55
+149,2015,All Dwellings,23543
+150,2016,Owner Occupied,14801
+151,2016,Rented Privately or with a job or business,4832
+152,2016,Rented from Private Registered Providers,2430
+153,2016,Rented from Local Authorities,1612
+154,2016,Other Public Sector Dwellings,57
+155,2016,All Dwellings,23733
+156,2017,Owner Occupied,15050
+157,2017,Rented Privately or with a job or business,4798
+158,2017,Rented from Private Registered Providers,2444
+159,2017,Rented from Local Authorities,1602
+160,2017,Other Public Sector Dwellings,56
+161,2017,All Dwellings,23950
+162,2018,Owner Occupied,15311
+163,2018,Rented Privately or with a job or business,4773
+164,2018,Rented from Private Registered Providers,2452
+165,2018,Rented from Local Authorities,1592
+166,2018,Other Public Sector Dwellings,43
+167,2018,All Dwellings,24172
+168,2019,Owner Occupied,15544
+169,2019,Rented Privately or with a job or business,4762
+170,2019,Rented from Private Registered Providers,2479
+171,2019,Rented from Local Authorities,1587
+172,2019,Other Public Sector Dwellings,42
+173,2019,All Dwellings,24414
+174,2020,Owner Occupied,15723
+175,2020,Rented Privately or with a job or business,4813
+176,2020,Rented from Private Registered Providers,2505
+177,2020,Rented from Local Authorities,1583
+178,2020,Other Public Sector Dwellings,33
+179,2020,All Dwellings,24657
+180,2021,Owner Occupied,15858
+181,2021,Rented Privately or with a job or business,4876
+182,2021,Rented from Private Registered Providers,2524
+183,2021,Rented from Local Authorities,1581
+184,2021,Other Public Sector Dwellings,34
+185,2021,All Dwellings,24873
