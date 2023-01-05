@@ -10,10 +10,12 @@
 /* Set the background color for my page: */
 
 /* Book on colour = Joseph Albers - Interaction of Colour */
+ /* background-image: url(https://media.istockphoto.com/vectors/abstract-technical-background-vector-id1253930036?k=20&m=1253930036&s=612x612&w=0&h=eI4aTA5IP6ZGn4UeuReZCWuYCHQ2yk5UjSLiQVAXDiQ=);----->*/
 
 body{
-    background-image: url(https://media.istockphoto.com/vectors/abstract-technical-background-vector-id1253930036?k=20&m=1253930036&s=612x612&w=0&h=eI4aTA5IP6ZGn4UeuReZCWuYCHQ2yk5UjSLiQVAXDiQ=);
+    background-color: rgb(222, 247, 220);
 
+   
  }
 
 
@@ -29,8 +31,9 @@ h1,h2, h3, p{
     
 .myWeek1{
     margin: auto;
+    font-family: 'Roboto', sans-serif;
     max-width: 600px;
-    background-color: rgb(249, 250, 251);
+    background-color: rgb(249, 250, 251 , 0.3);
     border-width: 3px;
     border-style: solid;
     border-radius: 10px;
@@ -38,8 +41,9 @@ h1,h2, h3, p{
 }
 .myWeek2{
     margin: auto;
+    font-family: 'Roboto', sans-serif;
     max-width: 600px;
-    background-color: rgb(249, 250, 251);
+    background-color: rgb(249, 250, 251, 0.3);
     border-width: 3px;
     border-style: solid;
     border-radius: 10px;
@@ -48,8 +52,9 @@ h1,h2, h3, p{
 
 .myWeek3{
     margin: auto;
+    font-family: 'Roboto', sans-serif;
     max-width: 600px;
-    background-color: rgb(249, 250, 251);
+    background-color: rgb(249, 250, 251, 0.3);
     border-width: 3px;
     border-style: solid;
     border-radius: 10px;
@@ -59,8 +64,9 @@ h1,h2, h3, p{
 
 .myWeek4{
     margin: auto;
+    font-family: 'Roboto', sans-serif;
     max-width: 600px;
-    background-color: rgb(249, 250, 251);
+    background-color: rgb(249, 250, 251, 0.3);
     border-width: 3px;
     border-style: solid;
     border-radius: 10px;
@@ -68,15 +74,27 @@ h1,h2, h3, p{
 }
 
 .myWeek5{
+    font-family: 'Roboto', sans-serif;
     margin:auto;
-    max-width: 600px;
-    background-color: rgb(249, 250, 251);
+    max-width: 1200px;
+    background-color: rgb(249, 250, 251, 0.3);
     border-width: 3px;
     border-style: solid;
     border-radius: 10px;
     border-color: rgb(111, 110, 110);
 }
 
+.myWeek7{
+
+    font-family: 'Roboto', sans-serif;
+    margin:auto;
+    max-width: 1200px;
+    background-color: rgb(249, 250, 251, 0.3);
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(111, 110, 110);
+}
 
 /* Set the apperance of the class, chart */
 .chart{
@@ -94,14 +112,44 @@ h1,h2, h3, p{
 
 
 .chart2{
+    align-items: center;
     background-color: rgb(255, 255, 255);
-    width: 310px;
+    width:270px;
     border-width: 2px;
     border-style: solid;
     border-radius: 10px;
     border-color: grey;
-    margin:10px;
+    margin-left: 10px;
+    margin-bottom: 35px;
+
 
 }
-    
 
+.chart3{
+    background-color: rgb(255, 255, 255);
+
+
+    width:450px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: grey;
+    margin: 0px;
+}
+
+.link{ 
+    border: 2px ;
+    display: flex;
+    align-items: center;
+
+}
+.ControlPanel{position: relative;
+    background-color: #273349;
+    overflow: hidden;
+    justify-items: right;
+    border-bottom: 1px solid #EFEEF5;
+    margin-right: 0;
+    font-family: 'IBM Plex Sans', sans-serif;
+    opacity: 100%;
+    color: #EFEEF5;
+}

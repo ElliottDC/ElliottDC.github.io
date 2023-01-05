@@ -1,0 +1,64 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  
+    "description": "Average Home Price by Region",
+  
+  "title": {
+      "text": "Average Home Price by Region",
+      "subtitle":"Median Home prices in GBP from 1986 to 2021 by Region in the United Kingdom",
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"
+    },
+  
+    "data": {
+      "url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/Average%20home%20price%20colab5.csv",
+      "format": {"type": "csv"}
+    },
+  
+    "height": 130,
+    
+    "width": 120,
+    
+    "mark": {"type": "line", "color":"#0274bf"
+  
+  },
+    "transform": [
+       {
+        "filter": {
+          "field": "Year",
+          "range": [
+            {"year": 1986},
+            {"year": 2021}
+          ]
+        }
+      }
+    ],
+    
+    "encoding": {
+      
+      "x": {"field": "Year", "type": "temporal", "title": null},
+      
+      "y": {
+        "field": "Average Home Price",
+        "type": "quantitative",
+        "title": null
+      
+      },
+  
+      "facet": {
+        "field": "Region",
+        "type": "nominal",
+        "columns": 2,
+        "title": null
+      },
+      "tooltip": [
+        {"field": "Year", "type": "temporal", "title": "Year"},
+        {"field": "Average Home Price","type": "quantitative","title": "Average Home price","format": ",.0f"}
+      ]
+  
+      
+    },
+    "resolve": {"scale": {"y": "independent"}}
+  }

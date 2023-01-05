@@ -1,0 +1,100 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+  "width":500,
+  "height":300, 
+  "view": {"stroke":"Transparant"},
+  
+  "title":{
+    "text":"London"
+    },
+  
+    "params": [
+      {"name": "yearSelector", "value":2015,
+      "bind":{
+        "input": "range",
+        "min": 1995,
+        "max": 2023,
+        "step": 1,
+        "name": "Year"
+      }
+      }
+    ],
+  "projection":{"type":"mercator"},
+  "mark":"geoshape",
+  
+  "data": {
+  "url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/WideLondonSplitdate4.csv",
+  "format":{"type": "csv"}},
+  
+  "transform": [
+  {"calculate": "toNumber(yearSelector)", "as": "yearS"},
+  {"filter":"datum.yearS == datum.Year"},
+  
+  
+  
+    {"fold": ["City of London",
+    "Barnet", 
+    "Barking and Dagenham", 
+    "Bexley", 
+    "Brent", 
+    "Bromley",
+    "Camden",
+    "Croydon",
+    "Ealing",
+    "Enfield",
+    "Greenwich",
+    "Hackney",
+    "Hammersmith and Fulham",
+    "Haringey",
+    "Harrow",
+    "Havering",
+    "Hillingdon",
+    "Hounslow",
+    "Islington",
+    "Kensington and Chelsea",
+    "Kingston upon Thames",
+    "Lambeth",
+    "Lewisham",
+    "Merton",
+    "Newham",
+    "Redbridge",
+    "Richmond upon Thames",
+    "Southwark",
+    "Sutton",
+    "Tower Hamlets",
+    "Waltham Forest",
+    "Wandsworth",
+    "Westminster"], "as": ["Borough", "Value"]},
+  
+  
+    {"lookup": "Borough",
+    "from":{
+    "data":{
+      "url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/GeoLondon.json",
+      "format":{"property":"features"}},
+      "key":"properties.name", 
+      "fields":[
+        "Properties",
+        "type",
+        "geometry"]}}],
+  
+  
+  "encoding": {
+    "color":{
+      "field":"Value",
+      "legend":{
+        "title":null,
+        "orient": "right",
+        "direction": "vertical"},
+        "type": "quantitative",
+        "scale":{"scheme":"lightgreyred"}}
+  
+      }
+  }
+  
+  
+  
+  
+  
+  

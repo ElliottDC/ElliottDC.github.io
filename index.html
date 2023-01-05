@@ -38,31 +38,29 @@
 
     </div>
     <div class="myWeek2">
-        <h1>Data Science for Economists.</h1>
-
         <h2> Week 2</h2>
 
         <h3>IMF lending outstanding </h3>
         <p>This chart shows outstanding debt to the IMF across all countries </p>
         <div class="chart" id="Chart5"></div>
         <h3>IMF Loans outstanding in current prices</h3>
-        <p>This chart shows the current debt to the IMF acorss all countries converted into a % of world GDP in each year</p>
+        <p>This chart shows the current debt to the IMF across all countries converted into a percentage of world GDP in each year</p>
         <div class="chart" id="Chart6"></div>
+        <p> Once we adjusted the chart to current prices we can see that the riskier year is 1984</p>
 
 
     </div>
 
     <div class="myWeek3">
-        <h1>Data Science for Economists.</h1>
-
         <h2> Week 3</h2>
-
         <h3>United Kingdom housing prices</h3>
         <p>This chart shows the United kingdoms average housing prices from January 2002 until August 2022. </p>
         <div class="chart" id="Chart7"></div>
         <h3> United Kingdom housing prices</h3>
         <p> This chart also shows the average house price in the United kingdom </p>
         <div class="chart" id="Chart8"></div>
+        <p> The second visual encoding is a line chart rather than bar chart. 
+            This is because a line chart shows timeseries data more effectively. </p>
 
 
     </div>
@@ -76,12 +74,15 @@
         <p>This chart shows the United kingdoms 2 year fixed mortgage rates for different Loan to value percentages </p>
         <div class="chart" id="Chart9"></div>
     
-        <h3>Link to colab notebook used to clean and organise data.  </h3>
-        <p>https://colab.research.google.com/drive/1s8enSefqWbS0GTw2cMMbMIn8gWx2KpTS?usp=sharing 
+        <p> Link to colab notebook used to clean and organise data. 
+        <a href="https://colab.research.google.com/drive/1s8enSefqWbS0GTw2cMMbMIn8gWx2KpTS?usp=sharing" id="linkw4">Here.</a> 
         
-            The data used for this chart was gathered from https://www.twindig.com/average-uk-mortgage-rates 
+        <p>Data used for this chart was gathered from 
+         <a href="https://www.twindig.com/average-uk-mortgage-rates" id="linkw4.1" >Here.</a>
         </p>
-        <div ></div>
+
+        <div ></div> 
+
 
         <div class="myWeek5">
             <h1>Inflation in the UK</h1> 
@@ -97,10 +98,24 @@
             <div class="chart2" id="Chart16"></div>
             <div class="chart2" id="Chart17"></div>
             <div class="chart2" id="Chart18"></div>
-            <p> https://colab.research.google.com/drive/1WciWw5t8G_-bYRQoXQcdEklFzauvhuf9#scrollTo=SvjTjqW5V85Q </p>
+
+            <p> the link to the google colab used to create the loop and use the API can be found
+            <a href="https://colab.research.google.com/drive/1WciWw5t8G_-bYRQoXQcdEklFzauvhuf9#scrollTo=SvjTjqW5V85Q" id="linkw5">here.
+
+            </a> </p>
 
 
 
+        <div class="myWeek7">
+            <h1>Data Science for Economists.</h1>
+        
+            <h2> Week 7</h2>
+        
+            <h3>Maps of London</h3>
+            <p>These Maps show London divided into its respective boroughs. The second Map also shows the average house price in september 2022</p>
+            <div class="chart3" id="Chart19"></div>
+            <div class="chart3" id="Chart20"></div>
+            <div class="chart" id="Chart30"></div>
 
 
     </div>
@@ -125,6 +140,9 @@
     var myChart16 = "ChartCPIHL527.json"
     var myChart17 = "ChartCPIHL528.json"
     var myChart18 = "ChartCPIHL529.json"
+    var myChart19 = "Map1basic.json"
+    var myChart20 = "Map2better.json"
+    var myChart30 = "AVERAGE_HOME_PRICE_BY_REGION"
 
     // Embed charts:
 
@@ -144,6 +162,9 @@
     vegaEmbed('#Chart16', myChart16)
     vegaEmbed('#Chart17', myChart17)
     vegaEmbed('#Chart18', myChart18)
+    vegaEmbed('#Chart19', myChart19)
+    vegaEmbed('#Chart20', myChart20)
+    vegaEmbed('#Chart30', myChart30)
 
 
 

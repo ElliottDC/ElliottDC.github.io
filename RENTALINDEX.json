@@ -1,0 +1,68 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "description": "Rental price index",
+  
+  "title": {
+      "text": "Average rental Price by Region",
+      "subtitle":"Rental price index in GBP from 2015 to 2022 by Region in the United Kingdom",
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"
+    },
+  
+    "data": {
+      "url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/Rental_Price_Index_Date.csv",
+      "format": {"type": "csv"}
+    },
+  
+    "height": 130,
+    
+    "width": 120,
+    
+    "mark": {"type": "line", "color":"#0c2ef0"
+    
+  
+  },
+  
+    "transform": [
+       {
+        "filter": {
+          "field": "DATE",
+          "range": [
+            {"year": 2000},
+            {"year": 2021}
+          ]
+        }
+      }
+    ],
+    
+    "encoding": {
+      
+      "x": {"field": "DATE", "type": "temporal", "title": null},
+      
+      "y": {
+        "field": "Rental Price Index",
+        "type": "quantitative",
+        "scale": {"domain":[90,125]},
+        "title": null
+       
+      
+      },
+  
+      "facet": {
+        "field": "Region",
+        "type": "nominal",
+        "columns": 3,
+        "title": null
+      },
+      "tooltip": [
+        {"field": "DATE", "type": "temporal", "title": "Date"},
+        {"field": "Rental Price Index","type": "quantitative","title": "Rental Price Index","format": ",.0f"}
+      ]
+  
+      
+    },
+    "resolve": {"scale": {"y": "independent"}}
+  }

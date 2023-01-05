@@ -1,0 +1,115 @@
+/* Richard Davies, Data Science for Economists */
+
+/* This is my second CSS file */
+
+
+/* Import a font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+/* Set the background color for my page: */
+
+/* Book on colour = Joseph Albers - Interaction of Colour */
+ /* background-image: url(https://media.istockphoto.com/vectors/abstract-technical-background-vector-id1253930036?k=20&m=1253930036&s=612x612&w=0&h=eI4aTA5IP6ZGn4UeuReZCWuYCHQ2yk5UjSLiQVAXDiQ=);----->*/
+
+ .ControlPanel{position: relative;
+    background-color: rgb(26, 95, 56);;
+    overflow: hidden;
+    justify-items: right;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    text-align: left;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 50px;
+    opacity: 100%;
+    color: #EFEEF5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.Header{
+
+    background-color: seagreen;
+    height: auto;
+    line-height: 1;
+    word-wrap: break-word;
+    text-align: left;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-bottom: 20px;
+    font-size: 20px;
+    background-color: rgb(26, 95, 56);;
+    border-color: seagreen;
+    border-radius: 10px;
+    color: white;
+    align-items: middle;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Background1{
+    background-color: rgb(26, 95, 56);
+    border-color: rgb(26, 95, 56);;
+    border-radius: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+    }
+
+ .Topicbox{
+
+        text-decoration: underline;
+        text-align: left;
+        color: rgb(255, 255, 255);
+        font-family: 'IBM Plex Sans', sans-serif;
+        font-size: 26px;
+        display: block;
+        margin-left: 25%;
+        margin-right: 25%;
+        font-size: 1.5em;
+        margin-block-end: 1em;
+        margin-inline-start: 25%;
+        margin-inline-end: 0px;
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.Sections{
+    background-color: rgb(26, 95, 56);;
+    align-items: middle;
+    text-align: left;
+    margin-left: 25%;
+    margin-right:25%;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.textbox{
+    text-align: left;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    align-items: left;
+    margin-left: 25%;
+    margin-right: 25%;
+
+
+}
+
+.chart{
+    background-color: rgb(255, 255, 255);
+
+
+    width:300px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: grey;
+    margin: 75px;
+   
+}

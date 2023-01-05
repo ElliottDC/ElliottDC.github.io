@@ -1,0 +1,61 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json", 
+  
+    "title":{
+      "text": "New Build Housing composition up to 2020",
+      "fontSize":12,
+      "subtitle":["Housing composition from 1949 to 2020 for new builds in the United kingdom"],
+      "subtitleFont":"italic",
+      "subtitleFontSize":10
+      },
+  
+      "width":300,
+      "height":360,
+  
+      "params": [
+        {"name": "yearSelector", "value":2015,
+        "bind":{
+          "input": "range",
+          "min": 1949,
+          "max": 2020,
+          "step": 1,
+          "name": "Year"}}],
+    
+     "mark":{ 
+     "type" : "bar"},
+  
+  
+   
+    "data":{
+      "url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/UK%20Newbuild.csv",
+  
+     "format" : {"type": "csv"}},
+  
+  "transform":[
+    {"calculate": "toNumber(yearSelector)", "as": "yearS"},
+    {"filter": "datum.yearS == datum.Year"},
+  
+    {"fold":[ "All Dwellings", 
+  "Private Enterprise", 
+  "Housing Associations", 
+  "Local Authorities"],
+  
+  "as":["Type of property", "Value"]}],
+  
+  
+  
+    "encoding": {
+      "x": {
+        "field": "Type of property",
+        "type": "ordinal"},
+  
+      "y": {
+        "field": "Value",
+        "type": "quantitative"},
+  
+  
+      "color": {
+        "field": "Type of property"}
+    }
+  }
+  

@@ -1,0 +1,40 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/DwellingFINAL.csv"},
+  
+  "height":300,
+    "mark": "bar",
+  
+    "encoding": {
+      "x": {
+        "timeUnit": "year",
+        "field": "Year",
+        "type": "ordinal",
+        "title": "Year, Measured on 31st March"
+      },
+      "y": {
+        "field":"Number of Dwellings",
+        "type": "quantitative"
+      },
+      "color": {
+        "field": "Type of Dwelling",
+        "type": "nominal",
+        "scale": {
+          "domain": ["Owner Occupied", "Rented Privately or with a job or business","Rented from Local Authorities","Rented from Private Registered Providers", "Other Public Sector Dwellings"],
+          "range": ["#e7ba52", "#c7c7c7", "#aec7e8", "#1f77b4", "#9467bd"]
+        },
+        "title": "Dwelling type"
+  
+      
+      },
+      "tooltip": [
+        {"field":"Type of Dwelling", "type": "nominal","title":"Dwelling Type"},
+        {"field":"Number of Dwellings", "type": "quantitative", 
+        "title":"Number of Dwelling type"},
+        {"field":"All Dwellings", "type": "quantitative"},
+        {"field":"Other Public Sector Dwellings","type": "quantitative"}
+  
+      ]
+    }
+  }
+  

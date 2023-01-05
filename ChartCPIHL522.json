@@ -4,11 +4,11 @@
         "text": "CPIH Overall index (L522)",
         "subtitle":"Consumer Price index including housing costs from 1988-2021",
         "subtitleFontStyle":"italic",
-        "subtitleFontSize":10,
+        "subtitleFontSize":7,
         "anchor": "start",
         "color": "black"},
-        "height": 200,
-        "width": 250,
+        "height": 190,
+        "width": 200,
     
     
     

@@ -1,0 +1,40 @@
+
+
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 400,
+    "height": 300,
+  
+  
+    "data": {
+      "url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/GeoLondon.json",
+  
+  
+  
+      "format": {"property": "features"}
+    },
+    "projection": {"type": "mercator"},
+    "mark": {
+        "type": "geoshape",
+        "stroke": "black",
+        "strokeWidth":0.5},
+        
+   
+  
+   
+   
+    "encoding": {
+    "color":{ 
+        "type": "quantitative"
+      },
+  
+  
+    "tooltip":[
+      {"field":"properties.name", "type": "nominal", "title":"Borough"}]
+  }
+  
+  }
+  
+  
+  
+  

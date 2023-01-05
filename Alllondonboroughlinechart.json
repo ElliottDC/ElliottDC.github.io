@@ -1,0 +1,65 @@
+
+
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 450,
+    "height": 300,
+    "title": "London House prices by Borough",
+  
+  
+    "data": {
+      "url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/GeoLondon.json",
+  
+  
+      "format": {"property": "features"}
+    },
+    "projection": {"type": "mercator"},
+  
+  
+  
+    "transform": [
+  
+  
+      {"lookup": "properties.name", 
+      "from": {
+        "data":{
+          "url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/London%20Borough%20Average4.0.csv"},
+          "key": "Borough",
+          "fields": ["Average House Price £"]
+  
+        }
+  
+  
+  
+      }
+  
+      
+      
+    
+    ],
+    "mark": {
+        "type": "geoshape",
+        "stroke": "black",
+        "strokeWidth":0.5},
+        
+   
+  
+   
+   
+    "encoding": {
+    "color":{ 
+      "field": "Average House Price £",
+        "type": "quantitative"
+      },
+  
+  
+    "tooltip":[
+      {"field":"properties.name", "type": "nominal", "title":"Borough"},
+      {"field": "Average House Price £", "title":"Average House Price by Borough"}]
+  }
+  
+  }
+  
+  
+  
+  
