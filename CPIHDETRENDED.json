@@ -10,16 +10,25 @@
             "color": "black"},
             
     "data": {
-            "url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/STATA_CPIH.csv"},
+            "url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/STATACPIHH.csv",
+            "format":{
+              "type": "csv",
+
+            }
+            
+            
+            },
+            
     
 
     "transform": [
-            {"fold":["cpih_all_items_index", "cpih_all_items_index_pred", "cpih_all_items_index_error"], "as": ["measure", "value"]}
+            {"fold":["cpih_all_items_index", "cpih_all_items_index_pred", "cpih_all_items_index_error"], "as": ["measure", "value"]},
+    
             ],
             
         "height": 300,
         "width": 300,   
-        
+
     
         "mark": {   
                 "type":"line",

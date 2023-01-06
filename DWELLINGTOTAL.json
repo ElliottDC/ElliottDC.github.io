@@ -3,6 +3,7 @@
     "data": {"url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/DwellingFINAL.csv"},
   
   "height":300,
+  "width":400,
     "mark": "bar",
   
     "encoding": {

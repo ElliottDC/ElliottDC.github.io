@@ -1,5 +1,5 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   
     "description": "Average Home Price by Region",
   
@@ -19,7 +19,7 @@
   
     "height": 130,
     
-    "width": 120,
+    "width": 150,
     
     "mark": {"type": "line", "color":"#0274bf"
   
@@ -50,7 +50,7 @@
       "facet": {
         "field": "Region",
         "type": "nominal",
-        "columns": 2,
+        "columns": 3,
         "title": null
       },
       "tooltip": [

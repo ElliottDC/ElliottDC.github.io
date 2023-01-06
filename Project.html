@@ -8,6 +8,11 @@
 </head>
 
 <link rel="stylesheet" href="index3.css">
+
+ <!--The next three lines allow the Vega embed-->
+ <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+ <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+ <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
 <div class="Background1">
 
     <body>
@@ -33,7 +38,7 @@
 
 
 
-        <div class="Topicbox"
+        <div class="Topicbox">
 
             <h2>Introduction and Aims of this Project</h2>
             
@@ -46,33 +51,100 @@
 
         </div>
 
-        <div class="Sections"
+        
+        <div class="Sections">
+        <h1>Regional Price Trends </h1>
+        
+        
 
-        <div class="myWeek1">
-            <h1>Data Science for Economists.</h1>
-    
-            <h2> Week 1</h2>
-    
-            <h3>Inflation in the UK</h3>
-            <p>The first chart tracks Inflation in the UK Across time</p>
-            <div class="chart" id="Chart3"></div>
-            <h3>GDP in the UK</h3>
-            <p>This chart looks at GDP in the UK across time</p>
-            <div class="chart" id="Chart4"></div>
-    
-    
-        <h1>Regional House prices </h1>
+
         <div class="chart" id="Chart30"></div>
 
-        </p>
-
-            
-            
-
         </div>
+
+        <div class="textbox1">
+            This Graph above gives a overview of price changes for all regions to set the scene. 
+            The data used for this graph is from the ONS website, the CSV used for the analysis is<a href="https://github.com/ElliottDC/ElliottDC.github.io/blob/main/annual%20house%20price%20data%20by%20region.csv"> here</a>. 
+            The main challenge with this data was the cleaning needed due to layout of the data in the csv shown in this <a href="https://colab.research.google.com/drive/1xyQywADmqA5_aOHMANhrZHKQpdCpAC0j">Colab notebook</a> using pandas.
+        </div>
+
+        <div class="Sections">
+
+            <h1>London prices</h1>
+           
+            <div class="chart3" id="Chart31"> </div>
+        </div>
+
+        <div class="textbox1">
+            <p> This chart focuses on London home prices as they are an outlier to the overall data. 
+                This data came with some obsticles. Firstly, mapping the Borough Names for the Geojson to the Borough names in the
+                 <a href="https://github.com/ElliottDC/ElliottDC.github.io/blob/main/WideLondonSplitdate4.csv">CSV</a>. required some manual search and replace for the '&' 
+                 signs. Secondly in order to allow the param command to be functional, the date component needed to be split and put into a format vega-lite could read. This was done using pandas in google colab, shown 
+                 <a href="https://colab.research.google.com/drive/14DjsdkT-10afWGy9xGMQ39F4sjMgVXYx#scrollTo=wYc-l_WUbe3I">here.</a>
+                  </p>
+
+        
+ 
+           </div>
+
+           <div class="Sections">
+
+            <h1>Rental Price Index by Region</h1>
+
+            <div class="chart" id="Chart32"></div>
+
+           </div>
+
+           <div class="textbox1">
+            <p> The data cleaning for this data can be found <a href="https://colab.research.google.com/drive/17n2-kWvWp7hi_LdpufG2GFU_FjneoMo5">here</a> 
+                and the source of the data is the <a href="https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/indexofprivatehousingrentalpricesreferencetables">ONS</a>
+                 and the CSV is <a href="https://github.com/ElliottDC/ElliottDC.github.io/blob/main/Rental_Price_Index_Date.csv">here.</a>
+
+                </p>
+           </div>
+        
+
+           <div class="Sections">
+            <h1> Potential causes for these price trends</h1>
+
+            <div class="chart" id="Chart33"> </div>
+            </div>
+
+            <div class="textbox1">
+                <p>Data for this chart was gathered from the ..... </p>
+
+
+            </div>
+
+
+            <div class="Sections">
+                <h1> Compositions of new builds</h1>
+                <div class="chart3" id="Chart34"></div>
+            </div>
+
+            <div class="textbox1">
+
+                <p>Data for this chart was gathered from the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/ukhousebuildingpermanentdwellingsstartedandcompleted">ONS</a>
+                This data required few steps to clean, these were done in <a href="https://colab.research.google.com/drive/1T-6x8VJDU4Ane2fMV4LxFVTZF-YHVo6P">colab</a>
+                using pandas....... </p>
+            </div>
+
+
+
+           </div>
+
+
+
+
+
+
+
+
+</div>
+
     
+    </div>
     
-    <h1>This is my project</h1>
 
 
 </body>
@@ -81,13 +153,21 @@
 <script>
     //Define charts:
     var myChart30 = "AVERAGE_HOME_PRICE_BY_REGION.json";
-    var myChart5 = "Chart5_IMFoutstandingloan.json"
+    var myChart31 = "MAPFINAL.json";
+    var myChart32 = "RENTALINDEX.json";
+    var myChart33 = "DWELLINGTOTAL.json"
+    var myChart34 = "NEW BUILD Housing composition Chart.json"
+
+
 
    
     // Embed charts:
 
     vegaEmbed('#Chart30', myChart30);
-    vegaEmbed('#Chart5', myChart5);
+    vegaEmbed('#Chart31', myChart31);
+    vegaEmbed('#Chart32', myChart32);
+    vegaEmbed('#Chart33', myChart33);
+    vegaEmbed('#Chart34', myChart34);
 
     
 

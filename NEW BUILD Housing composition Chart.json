@@ -19,7 +19,7 @@
           "min": 1949,
           "max": 2020,
           "step": 1,
-          "name": "Year"}}],
+          "name": "Year     "}}],
     
      "mark":{ 
      "type" : "bar"},

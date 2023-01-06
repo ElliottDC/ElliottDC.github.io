@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   
   "width":500,
-  "height":300, 
+  "height":500, 
   "view": {"stroke":"Transparant"},
   
   "title":{
@@ -16,7 +16,8 @@
         "min": 1995,
         "max": 2023,
         "step": 1,
-        "name": "Year"
+        "name": "Year      "
+        
       }
       }
     ],
@@ -67,7 +68,7 @@
     "Wandsworth",
     "Westminster"], "as": ["Borough", "Value"]},
   
-  
+
     {"lookup": "Borough",
     "from":{
     "data":{
@@ -80,6 +81,7 @@
         "geometry"]}}],
   
   
+  
   "encoding": {
     "color":{
       "field":"Value",
@@ -87,11 +89,14 @@
         "title":null,
         "orient": "right",
         "direction": "vertical"},
-        "type": "quantitative",
-        "scale":{"scheme":"lightgreyred"}}
+        "type": "quantitative"},
+        "tooltip":[
+      {"field":"Borough", "type": "nominal", "title":"Borough"},
+      {"field": "Value", "title":"Average House Price"}]
+        }
   
       }
-  }
+  
   
   
   
