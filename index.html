@@ -1,166 +1,219 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- Title for the page -->
     <title>Document</title>
-
-    <!-- Link to my style sheet -->
-    <link rel="stylesheet" href="index2.css">
-
-    <!--The next three lines allow the Vega embed-->
-    <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
 </head>
 
+<link rel="stylesheet" href="index3.css">
+
+ <!--The next three lines allow the Vega embed-->
+ <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+ <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+ <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
 <div class="Background1">
 
-<body>
-
-    <div class ="ControlPanel">
-        <a href="Projectpage.html">Home</a>
-        <a href="Project.html"> Project</a>
-        <a href="index.html">Portfolio</a>
-        <a href="https://github.com/ElliottDC">Github</a>
-     </div>
-
-    <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
-    <div class="Sections">
-        <h1>Regional Price Trends </h1>
-    </div>
+    <body>
+       
+        <div class ="ControlPanel">
+            <a href="Project.html"> Project</a>
+            <a href="index.html">Portfolio</a>
+            <a href="https://github.com/ElliottDC">Github</a>
         
 
-
-        <div class="chart" id="Chart3"></div>
-
-
-        <div class="textbox1">
-           
         </div>
-    
-    
-    <div class="Sections">
-        <h1>Data Science for Economists.</h1>
 
-        <h2> Week 1</h2>
+        <div class="Header">
+            <h1 style="color: rgb(252, 252, 252);">
+                <b>My Project</b>
+                </h1>
+             <h1 style="color: rgb(255, 255, 255);">
+                 <b>Elliott Demetriou-Coffey: 1856309 </b>
+                </h1>
+        </div>
 
-        <h3>Inflation in the UK</h3>
-        <p>The first chart tracks Inflation in the UK Across time</p>
+
+
+
+        <div class="Sections">
+
+            <h2>My Portfolio</h2>
+            
+            <p></p>
+    
+        </div>
+        <div class="textbox1">
+        <p>Weeks 1 to 11 portfolio tasks</p>
+
+
+        </div>
+
+        
+        <div class="Sections">
+        <h1>Week1 </h1>
+        
+        </div>
+
+
         <div class="chart" id="Chart3"></div>
-        <h3>GDP in the UK</h3>
-        <p>This chart looks at GDP in the UK across time</p>
         <div class="chart" id="Chart4"></div>
 
-
-
-    </div>
-    <div class="myWeek2">
-        <h2> Week 2</h2>
-
-        <h3>IMF lending outstanding </h3>
-        <p>This chart shows outstanding debt to the IMF across all countries </p>
-        <div class="chart" id="Chart5"></div>
-        <h3>IMF Loans outstanding in current prices</h3>
-        <p>This chart shows the current debt to the IMF across all countries converted into a percentage of world GDP in each year</p>
-        <div class="chart" id="Chart6"></div>
-        <p> Once the data was adjusted to current prices it  it is evident that the riskier year is 1984</p>
-
-
-    </div>
-
-    <div class="myWeek3">
-        <h2> Week 3</h2>
-        <h3>United Kingdom housing prices</h3>
-        <p>This chart shows the United kingdoms average housing prices from January 2002 until August 2022. </p>
-        <div class="chart" id="Chart7"></div>
-        <h3> United Kingdom housing prices</h3>
-        <p> This chart also shows the average house price in the United kingdom </p>
-        <div class="chart" id="Chart8"></div>
-        <p> The second visual encoding is a line chart rather than bar chart. 
-            This is because a line chart shows timeseries data more effectively. </p>
-
-
-    </div>
-
-    <div class="myWeek4">
-        <h1>Data Science for Economists.</h1>
-
-        <h2> Week 4</h2>
-
-        <h3>UK mortgage rates </h3>
-        <p>This chart shows the United kingdoms 2 year fixed mortgage rates for different Loan to value percentages </p>
-        <div class="chart" id="Chart9"></div>
-    
-        <p> Link to colab notebook used to clean and organise data. 
-        <a href="https://colab.research.google.com/drive/1s8enSefqWbS0GTw2cMMbMIn8gWx2KpTS?usp=sharing" id="linkw4">Here.</a> 
         
-        <p>Data used for this chart was gathered from 
-         <a href="https://www.twindig.com/average-uk-mortgage-rates" id="linkw4.1" >Here.</a>
-         This site was used because it is a specialist site with  specific mortgage rate information and was easily scrapable with Beautiful soup.
-        </p>
 
-        <div ></div> 
+        <div class="textbox1">
+            The first graph shows the percentage change in inflation 
+            in the Uk over the years and the second chart shows UK GDP. 
 
+        </div>
 
-        <div class="myWeek5">
-            <h1>Inflation in the UK</h1> 
-            <h2> Week 5</h2>
-            <h3>United Kingdom CPIH from 1988-1921 </h3>
-            <p>These charts below show changes inflation in the United kingdom, measured using CPIH from 1988 to 1921.</p>
-            <div class="chart2" id="Chart10"></div>
-            <div class="chart2" id="Chart11"></div>
-            <div class="chart2" id="Chart12"></div>
-            <div class="chart2" id="Chart13"></div>
-            <div class="chart2" id="Chart14"></div>
-            <div class="chart2" id="Chart15"></div>
-            <div class="chart2" id="Chart16"></div>
-            <div class="chart2" id="Chart17"></div>
-            <div class="chart2" id="Chart18"></div>
+        <div class="Sections">
 
-            <p> the link to the google colab used to create the loop and use the API can be found
-            <a href="https://colab.research.google.com/drive/1WciWw5t8G_-bYRQoXQcdEklFzauvhuf9#scrollTo=SvjTjqW5V85Q" id="linkw5">here.
-
-            </a> </p>
-
-
-
-        <div class="myWeek7">
-            <h1>Data Science for Economists.</h1>
+            <h1>Week 2</h1>
+        </div>
+           
+            <div class="chart" id="Chart5"> </div>
+            <div class="chart" id="Chart6"></div>
         
-            <h2> Week 7</h2>
-        
-            <h3>Maps of London</h3>
-            <p>These Maps show London divided into its respective boroughs. The second Map also shows the average house price in september 2022</p>
-            <div class="chart3" id="Chart19"></div>
-            <div class="chart3" id="Chart20"></div>
-            <div class="chart" id="Chart30"></div>
+
+        <div class="textbox1">
+            <p> Once the data was adjusted to current prices it  it is evident that the riskier year is 1984</a>
+                  </p>
 
         
-            <div class="myWeek8">
-                <h1>Data Science for Economists.</h1>
-            
-                <h2> Week 7</h2>
-            
-                <h3>Regional House prices Timeseries regression</h3>
-                <p>This first graph shows the average house prices in each region across time</p>
-                <div class="chart" id="Chart35"></div>
-                <div class="chart3" id="Chart20"></div>
+ 
+           </div>
+
+           <div class="Sections">
+            <h1>Week 3</h1>
+           </div>
+
+            <div class="chart" id="Chart7"></div>
+            <div class="chart" id="Chart8"></div>
+
+            <div class="textbox1">
+                <p>The second visual encoding is a line chart rather than bar chart. 
+                    This is because a line chart shows timeseries data more effectively. 
+
+                </p>
+            </div>
+
+
+
+           <div class="Sections">
+
+            <h1>Week 4</h1>
+           </div>
+
+            <div class="chart" id="Chart9"></div>
+
+
+
+           <div class="textbox1">
+            <p> <p> Link to colab notebook used to clean and organise data. 
+                <a href="https://colab.research.google.com/drive/1s8enSefqWbS0GTw2cMMbMIn8gWx2KpTS?usp=sharing" id="linkw4">Here.</a> 
                 
+                <p>Data used for this chart was gathered from 
+                 <a href="https://www.twindig.com/average-uk-mortgage-rates" id="linkw4.1" >Here.</a>
+                 This site was used because it has specific mortgage rate information 
+                 and was easily scrapable with Beautiful soup.
+                </p>
+
+                </p>
+           </div>
+        
+
+           <div class="Sections">
+            <h1> Week 5</h1>
+           </div>
+           
+           <div class="Background2">
+
+           <div class="chart2" id="Chart10"> </div>
+           <div class="chart2" id="Chart11"></div>
+           <div class="chart2" id="Chart12"></div>
+           <div class="chart2" id="Chart13"></div>
+           <div class="chart2" id="Chart14"></div>
+           <div class="chart2" id="Chart15"></div>
+           <div class="chart2" id="Chart16"></div>
+           <div class="chart2" id="Chart17"></div>
+           <div class="chart2" id="Chart18"></div>
+           </div>
+
+            <div class="textbox1">
+                <p>The link to the google colab used to create the loop and use the API can be found
+                    <a href="https://colab.research.google.com/drive/1WciWw5t8G_-bYRQoXQcdEklFzauvhuf9#scrollTo=SvjTjqW5V85Q" id="linkw5">here.
+        
+                    </a> </p>
 
 
+            </div>
+
+
+            <div class="Sections">
+                <h1> Week 7</h1>
+            </div>
+                <div class="chart3" id="Chart19"></div>
+                <div class="chart3" id="Chart31"></div>
+            
+
+            <div class="textbox1">
+
+                <p>The first map just london split into its respective boroughs.
+                     The second shows the boroughs of london with average home prices through time. </p>
+            </div>
+
+
+            <div class="Sections">
+                <h1> Week 8</h1>
+            </div>
+                <div class="chart3" id="Chart19"></div>
+                <div class="chart3" id="Chart31"></div>
+            
+
+            <div class="textbox1">
+
+                <p>Data for this chart was gathered from the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/ukhousebuildingpermanentdwellingsstartedandcompleted">ONS</a>
+                This data required few steps to clean, these were done in <a href="https://colab.research.google.com/drive/1T-6x8VJDU4Ane2fMV4LxFVTZF-YHVo6P">colab</a>
+                using pandas....... </p>
+            </div>
+
+            <div class="Sections">
+                <h1> Week 9</h1>
+            </div>
+                <div class="chart3" id="Chart35"></div>
+                <div class="chart" id="Chart36"></div>
+            
+
+            <div class="textbox1">
+
+                <p>This first chart is a time series regression of average home prices in the UK by region and the second shows a detrended UK CPIH. </p>
+            </div>
+
+           </div>
+
+
+
+
+
+
+
+
+</div>
+
+    
     </div>
+    
+
 
 </body>
+</html>
 
 <script>
-    //Define charts:
-    var myChart3 = "chart3_InflationUK.json";
+
+      //Define charts:
+      var myChart3 = "chart3_InflationUK.json";
     var myChart4 = "chart4_GDPUK.json"
     var myChart5 = "Chart5_IMFoutstandingloan.json"
     var myChart6 = "Chart6_IMFupdated.json"
@@ -203,8 +256,30 @@
     vegaEmbed('#Chart20', myChart20)
     vegaEmbed('#Chart30', myChart30)
     vegaEmbed('#Chart35', myChart35)
+    
+    //Define charts:
+    var myChart30 = "AVERAGE_HOME_PRICE_BY_REGION.json";
+    var myChart31 = "MAPFINAL.json";
+    var myChart32 = "RENTALINDEX.json";
+    var myChart33 = "DWELLINGTOTAL.json"
+    var myChart34 = "NEW BUILD Housing composition Chart.json"
+    var myChart35 = "REGIONALPRICEREGRESSION.json"
+    var myChart36 = "CPIHDETRENDED.json"
 
 
+
+   
+    // Embed charts:
+
+    vegaEmbed('#Chart30', myChart30);
+    vegaEmbed('#Chart31', myChart31);
+    vegaEmbed('#Chart32', myChart32);
+    vegaEmbed('#Chart33', myChart33);
+    vegaEmbed('#Chart34', myChart34);
+    vegaEmbed('#Chart35', myChart35)
+    vegaEmbed('#Chart36', myChart36)
+
+    
 
 
 
