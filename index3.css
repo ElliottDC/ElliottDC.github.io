@@ -99,7 +99,6 @@
 
 .chart{
     background-color: rgb(255, 255, 255);
-    width: 680px;
     border-width: 2px;
     margin-left: 25%;
     margin-right: 25%;
@@ -107,6 +106,7 @@
     align-items: center;
    text-align: center;
     border-radius: 10px;
+    width: fit-content;
     border-color: grey;
 
     @media screen and (max: width 480px){
@@ -178,28 +178,33 @@
 .body{
 
 
+
+
+/*Mobile.*/ 
+
+@media screen and (max-width:1000px){
+    .Header{font-size: 15px;
+        position: relative;
+        max-width: 900px;
+    }
+
+    .chart{
+
+        display: flex;
+        flex-flow: row wrap; 
+        justify-content: center; 
+        align-items: center; 
+        align-content: center;  
+        width: auto;
+        padding:10px;
+        margin:auto;
+
+        max-width: 85%;
+
+    }
+    .Background1{
+        background-color: rgb(26, 95, 56);
+    }
+    .Sections
 }
-
-
-
-/* 2532x1170 pixels at 460ppi */
-@media only screen 
-    and (device-width: 390px) 
-    and (device-height: 844px) 
-    and (-webkit-device-pixel-ratio: 3) { }
-
-    /* 2778x1284 pixels at 458ppi */
-@media only screen 
-and (device-width: 428px) 
-and (device-height: 926px) 
-and (-webkit-device-pixel-ratio: 3) { }
-
-@media all and (max-width: 480){
-body{
-    font: size 10px; ;
 }
-
-
-}
-
-    
