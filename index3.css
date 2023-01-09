@@ -26,8 +26,8 @@
     opacity: 100%;
     color: #EFEEF5;
     font-family: Arial, Helvetica, sans-serif;
-    @media screen and {max: width 480px;
-    font: size 1px;}
+    @media screen and (max: width 480px;)
+    font: size 1px;
         
     }
 
