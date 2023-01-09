@@ -1,9 +1,10 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   
-  "width":500,
-  "height":500, 
-  "view": {"stroke":"Transparant"},
+    "width":500,
+
+    "height":500, 
+    "view": {"stroke":"Transparant"},
   
   "title":{
     "text":"London"

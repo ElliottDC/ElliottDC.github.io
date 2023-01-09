@@ -68,8 +68,8 @@
     background-color: rgb(26, 95, 56);;
     align-items: center;
     text-align: left;
+    word-wrap: normal;
     font-size: 20px;
-    text-decoration: underline;    
     margin-left: 25%;
     margin-right:25%;
     font-family: Arial, Helvetica, sans-serif;
@@ -97,30 +97,24 @@
     margin-left: 25%;
 }
 
-.cha rt{
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    width: auto;
-    padding:10px;
-    margin:auto;
-    max-width: 85%;
-
-
-}
 .chart{
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    width: auto;
     background-color: rgb(255, 255, 255);
+    border-width: 2px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-style: solid;
     align-items: center;
-    align-content: center;
-    margin: auto;
-    max-width: 85%;
-}
+   text-align: center;
+    border-radius: 10px;
+    width: fit-content;
+    border-color: grey;
+
+    @media screen and (max: width 480px){
+        margin:auto
+        background-color:black
+    }
+        
+    }
    
 
 
@@ -142,6 +136,7 @@
 .chart2{
     align-items: right;
     align-content: center;
+
     background-color: rgb(255, 255, 255);
     width: 170;
     border-width: 2px;
@@ -178,10 +173,12 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
+
 .body{
 
 
-
+}
 
 /*Mobile.*/ 
 
@@ -190,7 +187,7 @@
         position: relative;
         max-width: 900px;
     }
-    
+
     .chart{
 
         display: flex;
@@ -205,9 +202,64 @@
         max-width: 85%;
 
     }
+    .chart2{
+
+        display: flex;
+        flex-flow: row wrap; 
+        justify-content: center; 
+        align-items: center; 
+        align-content: center;  
+        width: auto;
+        padding:10px;
+        margin:auto;
+
+        max-width: 85%;
+    }
+
+    .chart3{
+
+        display: flex;
+        flex-flow: row wrap; 
+        justify-content: center; 
+        align-items: center; 
+        align-content: center;  
+        width: auto;
+        padding:10px;
+        margin:auto;
+
+        max-width: 85%;
+    }
+    .textbox1{
+
+        display: flex;
+        flex-flow: row wrap; 
+        justify-content: center; 
+        align-items: center; 
+        align-content: center;  
+        width: auto;
+        padding:10px;
+        margin:auto;
+
+        max-width: 85%;
+    }
+    .Background2
+
+    .Sections{
+
+        display: flex;
+        flex-flow: row wrap; 
+        justify-content: center; 
+        align-items: center; 
+        align-content: center;  
+        width: auto;
+        padding:10px;
+        margin:auto;
+
+        max-width: 85%;
+
+
+    }
+    
     .Background1{
         background-color: rgb(26, 95, 56);
     }
-    .Sections
-}
-}
