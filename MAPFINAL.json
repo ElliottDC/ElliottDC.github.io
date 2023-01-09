@@ -92,7 +92,7 @@
         "type": "quantitative"},
         "tooltip":[
       {"field":"Borough", "type": "nominal", "title":"Borough"},
-      {"field": "Value", "title":"Average House Price"}]
+      {"field": "Value", "title":"Average House Price(£)"}]
         }
   
       }

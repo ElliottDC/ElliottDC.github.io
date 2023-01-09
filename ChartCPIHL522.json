@@ -2,13 +2,13 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
         "text": "CPIH Overall index (L522)",
-        "subtitle":"Consumer Price index including housing costs from 1988-2021",
+        "subtitle":"Consumer Price index including housing costs ",
         "subtitleFontStyle":"italic",
         "subtitleFontSize":7,
         "anchor": "start",
         "color": "black"},
-        "height": 190,
-        "width": 200,
+        "height": 150,
+        "width": 150,
     
     
     

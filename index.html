@@ -19,11 +19,33 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
 </head>
 
-
+<div class="Background1">
 
 <body>
+
+    <div class ="ControlPanel">
+        <a href="Projectpage.html">Home</a>
+        <a href="Project.html"> Project</a>
+        <a href="index.html">Portfolio</a>
+        <a href="https://github.com/ElliottDC">Github</a>
+     </div>
+
     <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
-    <div class="myWeek1">
+    <div class="Sections">
+        <h1>Regional Price Trends </h1>
+    </div>
+        
+
+
+        <div class="chart" id="Chart3"></div>
+
+
+        <div class="textbox1">
+           
+        </div>
+    
+    
+    <div class="Sections">
         <h1>Data Science for Economists.</h1>
 
         <h2> Week 1</h2>
@@ -36,6 +58,7 @@
         <div class="chart" id="Chart4"></div>
 
 
+
     </div>
     <div class="myWeek2">
         <h2> Week 2</h2>
@@ -46,7 +69,7 @@
         <h3>IMF Loans outstanding in current prices</h3>
         <p>This chart shows the current debt to the IMF across all countries converted into a percentage of world GDP in each year</p>
         <div class="chart" id="Chart6"></div>
-        <p> Once we adjusted the chart to current prices we can see that the riskier year is 1984</p>
+        <p> Once the data was adjusted to current prices it  it is evident that the riskier year is 1984</p>
 
 
     </div>
@@ -79,6 +102,7 @@
         
         <p>Data used for this chart was gathered from 
          <a href="https://www.twindig.com/average-uk-mortgage-rates" id="linkw4.1" >Here.</a>
+         This site was used because it is a specialist site with  specific mortgage rate information and was easily scrapable with Beautiful soup.
         </p>
 
         <div ></div> 
@@ -117,6 +141,18 @@
             <div class="chart3" id="Chart20"></div>
             <div class="chart" id="Chart30"></div>
 
+        
+            <div class="myWeek8">
+                <h1>Data Science for Economists.</h1>
+            
+                <h2> Week 7</h2>
+            
+                <h3>Regional House prices Timeseries regression</h3>
+                <p>This first graph shows the average house prices in each region across time</p>
+                <div class="chart" id="Chart35"></div>
+                <div class="chart3" id="Chart20"></div>
+                
+
 
     </div>
 
@@ -143,6 +179,7 @@
     var myChart19 = "Map1basic.json"
     var myChart20 = "Map2better.json"
     var myChart30 = "AVERAGE_HOME_PRICE_BY_REGION"
+    var myChart35 = "REGIONALPRICEREGRESSION.json"
 
     // Embed charts:
 
@@ -165,6 +202,7 @@
     vegaEmbed('#Chart19', myChart19)
     vegaEmbed('#Chart20', myChart20)
     vegaEmbed('#Chart30', myChart30)
+    vegaEmbed('#Chart35', myChart35)
 
 
 

@@ -2,13 +2,13 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
         "text": "CPIH L528",
-        "subtitle":"CPIH for Health (L528) 1988-2021",
+        "subtitle":"CPIH for Health ",
         "subtitleFontStyle":"italic",
         "subtitleFontSize":7,
         "anchor": "start",
         "color": "black"},
-        "height": 190,
-        "width": 200,
+        "height": 150,
+        "width": 150,
     
     
     

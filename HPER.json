@@ -1,0 +1,142 @@
+{  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+       "text": "House Price to Earnings Ratio",
+       "color": "black",
+       "subtitle": "This shows the quarterly data for House Price to earnings ratio for different regions in the UK from 1996 to 2022",
+       "subtitleFontStyle": "italic",
+       "subtitleFontSize": 10,
+       "subtitleColor": "black"
+},
+ "data": {
+   "url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/HPER1.csv",
+   "format": {"type": "csv"}
+ },
+ "height": 350,
+   
+   "width": 550,
+
+
+
+ "layer": [
+
+  
+   {"selection":{
+    "picked":{
+      "empty": "none",
+      "bind":{
+        "Region":{
+          "input":"select",
+          "options": [
+            "no region selected",
+            "North",
+            "Yorks & H",
+            "N West",
+            "E Mids",
+            "W Mids",
+            "E Anglia",
+            "Outer SE",
+            "Outer Met",
+            "London",
+            "S West",
+            "Wales",
+            "Scotland",
+            "N Ireland",
+            "UK"],
+            "name": "Select a Region:"
+        }
+      },
+      "type": "single",
+      "fields": ["Region"]
+    }
+   }
+    
+    
+    , "mark": {
+       "type": "point",
+       "filled": true
+     },
+     "encoding": {
+      "color":{
+        "value": "grey",
+        "condition":{
+          "field": "Cluster",
+          "selection": "picked",
+          "type": "nominal",
+          "legend":null
+        }
+      },
+      "size":{
+        "value": 15,
+        "condition": {"value":50, "selection":"picked"}
+      },
+
+       "x": {
+         "field": "Date",         
+         "type": "temporal",
+         "title": "Year"
+       },
+       "y": {
+         "field": "House Price to Earnings Ratio",
+         "scale": {"zero":false},
+         "type": "quantitative",
+         "title": "House Price to Earnings Ratio"},
+
+         "tooltip": 
+         [{"field": "Date", "type": "temporal", "title": "Year"},
+        {"field": "House Price to Earnings Ratio","type": "quantitative",
+        "title": "House Price to Earnings Ratio","format": ",.0f"},
+        {"field": "Region", "type": "nominal"}]
+         
+       }
+     
+   },
+   {
+     "mark": {
+       "type": "line",
+       "color": "orange"
+     },
+     "transform": [
+       {
+         "regression": "House Price to Earnings Ratio",
+         "on": "Date"
+         
+       }
+     ],
+     "encoding": {
+       "x": {
+         "field": "Date",
+         "type": "temporal"
+       },
+       "y": {
+         "field": "House Price to Earnings Ratio",
+         "type": "quantitative"
+         }
+         
+
+     }
+   },
+   {
+     "transform": [
+       {
+         "regression": "House Price to Earnings Ratio",
+         "on": "Date",
+         "params": true
+       },
+       {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+     ],
+     "mark": {
+       "type": "text","y": -7,
+       "color": "black",
+       "x": "width",
+       "align": "right"
+
+
+       
+     },
+     "encoding": {
+       "text": {"type": "nominal", "field": "R2"}
+     }
+   }
+ ]
+
+}

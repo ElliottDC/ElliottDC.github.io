@@ -1,0 +1,58 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A dual axis chart, created by setting y's scale resolution to `\"independent\"`",
+    "width": 400, "height": 300,
+    "data": {
+      "url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/UKAHPPOP.csv"
+    },
+    
+    "encoding": {
+      "x": {
+        "timeUnit": "year",
+        "field": "year"
+        
+      }
+    },
+    "layer": [
+      {
+        "mark": {"opacity": 1, "type": "point", "color": "#85C5A6"},
+        "encoding": {
+          "y": {
+            "field": "value",          
+            "type": "quantitative",
+            "title": "UK Population",
+            "axis": {"titleColor": "#85C5A6"}
+            
+          },
+          "tooltip":[
+            {"field":"value", "type": "quantitative", "title":"Population"
+          }
+  
+  
+          ]
+  
+         
+        }
+      },
+      {
+        "mark": {"stroke": "#85A9C5", "type": "point"},
+        "encoding": {
+          "y": {
+            "field": "Average Home Price",
+            "type": "quantitative",
+            "title": "Average home price",
+            "axis": {"titleColor":"#85A9C5"}
+          },
+          "tooltip":[
+            {"field":"Average Home Price", "type": "quantitative", "title":"Average Home Price (£)"}
+            
+          ]
+          }
+        }
+      
+    ],
+  
+  
+    "resolve": {"scale": {"y": "independent"}}}
+  
+    

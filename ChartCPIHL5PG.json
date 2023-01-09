@@ -2,13 +2,13 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
         "text": "CPIH L5PG",
-        "subtitle":"CPIH for Housing and water, electricity, gas and other fuels: (L5PG) 1988-2021",
+        "subtitle":"CPIH for Housing and water, electricity, gas and other fuels",
         "subtitleFontStyle":"italic",
-        "subtitleFontSize":7,
+        "subtitleFontSize":6,
         "anchor": "start",
         "color": "black"},
-        "height": 190,
-        "width": 200,
+        "height": 150,
+        "width": 150,
     
     
     

@@ -1,0 +1,40 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "width": 500,
+    "height": 300,
+    "view": {"stroke": "transparent"},
+  
+    "title": {
+        "text": "Uk mortgage rate trends",
+        "fontSize": 12,
+        "subtitle":["This chart shows the different type of mortgage rates and their rates through time.", ""],
+        "subtitleFontStyle":"italic",
+        "subtitleFontSize":10, "anchor": "middle"},
+  
+    "mark":{
+      "type":"line",
+      "color":"rgb(0,67,167)"},
+    
+    "data": {
+        "url":"https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/MORTGAGE_FINAL.csv",
+        "format": {"type": "csv"}},
+    
+    "transform": [
+      {"fold":["Two year fixed rate", "Three year fixed rate", "Five year fixed rate", "Ten year fixed", "Two year variable"], "as": ["Mortgage type", "Value"]}
+      ],
+     
+    "encoding":{
+      "x":{
+        "field":"Date",
+        "type": "temporal"},
+
+      "y":{
+        "field":"Value",
+        "type": "quantitative"},
+
+      "color":{
+        "field":"Mortgage type"
+      }             
+    }
+}

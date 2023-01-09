@@ -18,9 +18,8 @@
     <body>
        
         <div class ="ControlPanel">
-            <a href="Projectpage.html">Home</a>
             <a href="Project.html"> Project</a>
-            <a href="index.html">Portfolio</a>
+            <a href="index3.html">Portfolio</a>
             <a href="https://github.com/ElliottDC">Github</a>
         
 
@@ -38,15 +37,23 @@
 
 
 
-        <div class="Topicbox">
+        <div class="Sections">
 
             <h2>Introduction and Aims of this Project</h2>
             
             <p></p>
     
         </div>
-        <div class="textbox">
-            <p>Housing is often the biggest single purchase an individual will make in their lifetime, even individuals who do not wish to own property will most likely have to pay some sort of rental expenditure in order to maintain a roof over their heads. Because of this housing is of great importance to all rational actors in an economy.  Furthermore, the housing market is tightly linked to consumer spending as price changes effect homeowners’ confidence and therefore spending in an economy. House prices change for many reasons, some of which include, overall housing stock in an economy, Mortgage rates available for potential buyers and buyers sentiment which can propagate bubbles or pop them. This project aims at exploring the UK’s housing market, focusing on price changes and trends over recent years across the whole of the UK, looking at some potential causes of these price changes and then focusing on the prospects for the future of the housing market.</p>
+        <div class="textbox1">
+        <p>Housing is often the biggest single purchase an individual will make in their lifetime, 
+            even individuals who do not wish to own property will most likely have to pay rent
+            in order to maintain a roof over their heads at some point. Because of this housing is of great importance 
+            to all rational actors in an economy.  Furthermore, the housing market is tightly linked to consumer spending 
+            as price changes effect homeowners’ confidence and therefore spending in an economy. House prices change for many 
+            reasons, some of which include; changes in the overall housing stock in an economy, Mortgage rates available for potential buyers 
+            and buyers sentiment which can propagate bubbles or pop them. This project aims at exploring the UK’s housing market, 
+            focusing on price changes and trends over recent years across the whole of the UK, looking at some potential causes of 
+            these price changes and then focusing on the prospects for the future of the housing market.</p>
 
 
         </div>
@@ -55,12 +62,12 @@
         <div class="Sections">
         <h1>Regional Price Trends </h1>
         
-        
+        </div>
 
 
         <div class="chart" id="Chart30"></div>
 
-        </div>
+        
 
         <div class="textbox1">
             This Graph above gives a overview of price changes for all regions to set the scene. 
@@ -71,12 +78,13 @@
         <div class="Sections">
 
             <h1>London prices</h1>
+        </div>
            
             <div class="chart3" id="Chart31"> </div>
-        </div>
+        
 
         <div class="textbox1">
-            <p> This chart focuses on London home prices as they are an outlier to the overall data. 
+            <p> This chart focuses on London home as they are a particularl example of how inflated house prices are becoming. 
                 This data came with some obsticles. Firstly, mapping the Borough Names for the Geojson to the Borough names in the
                  <a href="https://github.com/ElliottDC/ElliottDC.github.io/blob/main/WideLondonSplitdate4.csv">CSV</a>. required some manual search and replace for the '&' 
                  signs. Secondly in order to allow the param command to be functional, the date component needed to be split and put into a format vega-lite could read. This was done using pandas in google colab, shown 
@@ -88,17 +96,37 @@
            </div>
 
            <div class="Sections">
+            <h1>Time series regression on Regional home prices</h1>
+           </div>
+
+            <div class="chart" id="Chart35"></div>
+            <div class="textbox1" >
+            <p>This regression shows the clear time trend in prices by region using the same data as .
+                The data used in this chart is the same <a href="https://github.com/ElliottDC/ElliottDC.github.io/blob/main/annual%20house%20price%20data%20by%20region.csv">CSV</a> as Chart 1 with data from the 
+                <a href="https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/housepriceindexannualtables2039">ONS</a>. This chart shows clearly a trend in the data, with surges and crashes in 1990, 2008, 
+                and what looks like is about to come in the years after 2021 in which the data ends. This regression was done in vega-lite using the 'Transform' and 'regression' commands. 
+
+
+
+            </p>
+
+            </div>
+
+
+
+           <div class="Sections">
 
             <h1>Rental Price Index by Region</h1>
+           </div>
 
             <div class="chart" id="Chart32"></div>
 
-           </div>
 
            <div class="textbox1">
-            <p> The data cleaning for this data can be found <a href="https://colab.research.google.com/drive/17n2-kWvWp7hi_LdpufG2GFU_FjneoMo5">here</a> 
+            <p> As not all actors in an economy are ownder occupiers I have also shown rental price trends which show a similar but less severe trend. 
+                The data cleaning for this data can be found <a href="https://colab.research.google.com/drive/17n2-kWvWp7hi_LdpufG2GFU_FjneoMo5">here</a> 
                 and the source of the data is the <a href="https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/indexofprivatehousingrentalpricesreferencetables">ONS</a>
-                 and the CSV is <a href="https://github.com/ElliottDC/ElliottDC.github.io/blob/main/Rental_Price_Index_Date.csv">here.</a>
+                 and the CSV used is <a href="https://github.com/ElliottDC/ElliottDC.github.io/blob/main/Rental_Price_Index_Date.csv">here.</a>
 
                 </p>
            </div>
@@ -106,21 +134,29 @@
 
            <div class="Sections">
             <h1> Potential causes for these price trends</h1>
+           </div>
+           <div class="Sections2">
+            <h1>Population Growth</h1>
+           </div>
 
-            <div class="chart" id="Chart33"> </div>
-            </div>
+            <div class="chart" id="Chart38"> </div>
 
             <div class="textbox1">
-                <p>Data for this chart was gathered from the ..... </p>
+                <p>For this chart population data was gathered using this <a href="https://api.ons.gov.uk/timeseries/UKPOP/dataset/pop/data">API</a> and 
+                    then using Python in google colab, I cleaned and then merged the data with <a href="https://github.com/ElliottDC/ElliottDC.github.io/blob/main/UKAHPPOP.csv" >UK average house price data</a>
+                which comes from the same <a href="https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/housepriceindexannualtables2039">Source</a> as chart 1.
+                The notebook used for merging is<a href="https://colab.research.google.com/drive/1N8AcuF1r3v8SxNunO_ri5Y8Ny_7QUDyL#scrollTo=5TXeO0-BrCdM"> here</a>
+            and the notebook for cleaning the average housep price data is <a href="https://colab.research.google.com/drive/13cxwaP4mt4LCQZ092Ehek6c_V8xrq5_C#scrollTo=S6GJurYkoph6">here.</a></p>
 
 
             </div>
 
 
-            <div class="Sections">
+            <div class="Sections2">
                 <h1> Compositions of new builds</h1>
-                <div class="chart3" id="Chart34"></div>
             </div>
+                <div class="chart3" id="Chart34"></div>
+            
 
             <div class="textbox1">
 
@@ -128,6 +164,26 @@
                 This data required few steps to clean, these were done in <a href="https://colab.research.google.com/drive/1T-6x8VJDU4Ane2fMV4LxFVTZF-YHVo6P">colab</a>
                 using pandas....... </p>
             </div>
+
+
+            <div class= "Sections" >
+                <h1> What is to come?</h1>
+            </div>
+
+            <div class="chart" id="Chart36"></div>
+            <div class="textbox1">
+                <p> This graph above </p>
+            </div>
+            
+            <div class="chart" id="Chart37"></div>
+            <div class="textbox1">
+                The main challenge for this graph was getting the data from <a href="https://www.finder.com/uk/mortgage-statistics"> Finders website</a> 
+                and then cleaning the required data into a readable format.
+               The data was scraped using beautifulsoup4 and then cleaned using pandas, shown in this 
+                 <a href="https://colab.research.google.com/drive/1W4pdbOu5lJ3nJ5Ku1_rpk-XXX1dW4e1b#scrollTo=fG9yHVc4O7x2">notebook</a>
+            </div>
+
+
 
 
 
@@ -155,8 +211,11 @@
     var myChart30 = "AVERAGE_HOME_PRICE_BY_REGION.json";
     var myChart31 = "MAPFINAL.json";
     var myChart32 = "RENTALINDEX.json";
-    var myChart33 = "DWELLINGTOTAL.json"
     var myChart34 = "NEW BUILD Housing composition Chart.json"
+    var myChart35 = "REGIONALPRICEREGRESSION.json"
+    var myChart36 = "HPER.json"
+    var myChart37 = "MORTGAGE.json"
+    var myChart38 = "POPULATION.json"
 
 
 
@@ -166,9 +225,11 @@
     vegaEmbed('#Chart30', myChart30);
     vegaEmbed('#Chart31', myChart31);
     vegaEmbed('#Chart32', myChart32);
-    vegaEmbed('#Chart33', myChart33);
     vegaEmbed('#Chart34', myChart34);
-
+    vegaEmbed('#Chart35', myChart35);
+    vegaEmbed('#Chart36', myChart36);
+    vegaEmbed('#Chart37', myChart37);
+    vegaEmbed('#Chart38', myChart38);
     
 
 

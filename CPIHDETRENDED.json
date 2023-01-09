@@ -3,7 +3,7 @@
              
     "title": {
             "text": "UK CPIH",
-            "subtitle":["CPIH / predicted CPIH / prediction error. Source: ONS and my own calculations",],
+            "subtitle":["CPIH / predicted CPIH / prediction error. Source: ONS and my own calculations"],
             "subtitleFontStyle":"italic",
             "subtitleFontSize":10,
             "anchor": "start",
@@ -12,7 +12,7 @@
     "data": {
             "url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/STATACPIHH.csv",
             "format":{
-              "type": "csv",
+              "type": "csv"
 
             }
             
@@ -22,12 +22,12 @@
     
 
     "transform": [
-            {"fold":["cpih_all_items_index", "cpih_all_items_index_pred", "cpih_all_items_index_error"], "as": ["measure", "value"]},
+            {"fold":["cpih_all_items_index", "cpih_all_items_index_pred", "cpih_all_items_index_error"], "as": ["measure", "value"]}
     
             ],
             
-        "height": 300,
-        "width": 300,   
+        "height": 450,
+        "width": 450,   
 
     
         "mark": {   
@@ -64,9 +64,9 @@
 
                     {"field": "cpih_all_items_index_pred", "type": "quantitative"},
                     {"field": "cpih_all_items_index_error", "type":"quantitative"},
-                    {"field": "date", "type": "temporal"},
+                    {"field": "date", "type": "temporal"}
                     
                     ]
 
         }
-    ,}
+    }

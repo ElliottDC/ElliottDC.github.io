@@ -51,35 +51,19 @@
 .Background1{
     background-color: rgb(26, 95, 56);
     border-color: rgb(26, 95, 56);;
-    border-radius: 10px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
+    max-width: 5000px;
+    margin: auto;
 
 
     }
 
- .Topicbox{
-
-        text-decoration: underline;
-        text-align: left;
-        color: rgb(255, 255, 255);
-        font-family: 'IBM Plex Sans', sans-serif;
-        font-size: 26px;
-        display: block;
-        margin-left: 25%;
-        margin-right: 25%;
-        font-size: 1.5em;
-        margin-block-end: 1em;
-        margin-inline-start: 25%;
-        margin-inline-end: 0px;
-        font-weight: bold;
-        font-family: Arial, Helvetica, sans-serif;
-
-}
+ 
 
 .Sections{
     background-color: rgb(26, 95, 56);;
-    align-items: left;
+    align-items: center;
     text-align: left;
     font-size: 20px;
     text-decoration: underline;    
@@ -103,16 +87,19 @@
 .textbox1{ 
     text-align: left;
     font-size: larger;
+    max-width: 700px;
     padding-top: 25px;
     font-family: Arial, Helvetica, sans-serif;
     align-items: left;
     margin-left: 25%;
-    margin-right: 25%;}
+}
 
 .chart{
     background-color: rgb(255, 255, 255);
     width: 680px;
     border-width: 2px;
+    margin-left: 25%;
+    margin-right: 25%;
     border-style: solid;
     align-items: center;
    text-align: center;
@@ -130,7 +117,62 @@
     border-style: solid;
     align-items: left;
    text-align: center;
+   margin-left: 25%;
+   margin-right: 25%;
     border-radius: 10px;
     border-color: grey;
    
 }
+.chart2{
+    align-items: right;
+    align-content: center;
+
+    background-color: rgb(255, 255, 255);
+    width: 170;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: grey;
+    margin-left:  25%; ;
+    margin-right: 25%;
+
+
+}
+
+.Sections2{
+    background-color: rgb(26, 95, 56);;
+    align-items: center;
+    text-align: left;
+    font-size: 20px;
+    margin-left: 25%;
+    margin-right:25%;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+.Background2{
+    background-color: rgb(26, 95, 56);
+    border-color: rgb(26, 95, 56);;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;   
+     align-content: center;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+@media all and (max-width: 480){
+body{
+    font: size 10px; ;
+}
+
+
+}
+
+    

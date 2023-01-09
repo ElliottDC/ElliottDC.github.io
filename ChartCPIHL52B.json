@@ -2,13 +2,13 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
         "text": "CPIH L52B",
-        "subtitle":"CPIH for Recreation and Culture (L52B) 1988-2021",
+        "subtitle":"CPIH for Recreation and Culture",
         "subtitleFontStyle":"italic",
         "subtitleFontSize":7,
         "anchor": "start",
         "color": "black"},
-        "height": 190,
-        "width": 200,
+        "height": 150,
+        "width": 150,
     
     
     

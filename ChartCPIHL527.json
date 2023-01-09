@@ -2,13 +2,13 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
         "text": "CPIH L527",
-        "subtitle":"CPIH for Furniture, Household equipment and Routine Maintenance: (L527) 1988-2021",
+        "subtitle":"CPIH; Furniture, Household equipment, Routine Maintenance",
         "subtitleFontStyle":"italic",
-        "subtitleFontSize":6,
+        "subtitleFontSize":7,
         "anchor": "start",
         "color": "black"},
-        "height": 190,
-        "width": 200,
+        "height": 150,
+        "width": 150,
     
     
     "description": "CPIH division L527 .",

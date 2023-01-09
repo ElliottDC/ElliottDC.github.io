@@ -1,0 +1,92 @@
+{  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+       "text": "Regional House Prices in the UK 1986-2021",
+       "color": "black",
+       "subtitle": "Time series regression of Regional Housing prices in the UK. Source: ONS",
+       "subtitleFontStyle": "italic",
+       "subtitleFontSize": 10,
+       "subtitleColor": "black"
+},
+ "data": {
+   "url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/Average%20home%20price%20colab5.csv",
+   "format": {"type": "csv"}
+ },
+ "height": 350,
+   
+   "width": 450,
+ "layer": [
+   {
+     "mark": {
+       "type": "point",
+       "filled": true
+     },
+     "encoding": {
+       "x": {
+         "field": "Year",
+         "type": "temporal",
+         "title": "Time"
+       },
+       "y": {
+         "field": "Average Home Price",
+         "type": "quantitative",
+         "title": "Average Home prices (£)"},
+
+         "tooltip": 
+         [
+        {"field": "Average Home Price","type": "quantitative",
+        "title": "Average Home price(£)","format": ",.0f"},
+        {"field": "Region", "type": "nominal"}]
+         
+       }
+     
+   },
+   {
+     "mark": {
+       "type": "line",
+       "color": "firebrick"
+     },
+     "transform": [
+       {
+         "regression": "Average Home Price",
+         "on": "Year"
+         
+       }
+     ],
+     "encoding": {
+       "x": {
+         "field": "Year",
+         "type": "temporal"
+       },
+       "y": {
+         "field": "Average Home Price",
+         "type": "quantitative"
+         }
+         
+
+     }
+   },
+   {
+     "transform": [
+       {
+         "regression": "Average Home Price",
+         "on": "Year",
+         "params": true
+       },
+       {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+     ],
+     "mark": {
+       "type": "text","y": -7,
+       "color": "black",
+       "x": "width",
+       "align": "right"
+
+
+       
+     },
+     "encoding": {
+       "text": {"type": "nominal", "field": "R2"}
+     }
+   }
+ ]
+
+}
