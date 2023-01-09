@@ -1,0 +1,21 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Google's stock price over time.",
+    "data": {"url": "https://raw.githubusercontent.com/ElliottDC/ElliottDC.github.io/main/US%20debt%20to%20GDP.csv",
+    "format":{"type":"csv" }},
+
+    "title": {
+        "text": "US Debt to GDP",
+        "subtitle": "US debt to GDP ratio leading up to the 2008 bubble burst",
+        "subtitleFontStyle":"italic",
+        "subtitleFontSize":10,
+        "anchor": "start",
+        "color": "black"},
+  
+    "mark": "line",
+    "encoding": {
+      "x": {"field": "DATE", "type": "temporal"},
+      "y": {"field": "Debt to GDP", "type": "quantitative"}
+    }
+  }
+  

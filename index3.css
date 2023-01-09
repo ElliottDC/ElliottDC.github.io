@@ -182,22 +182,28 @@
 
 /*Mobile.*/ 
 
-@media screen and (max-width:1000px){
+@media screen and (max-width:800px){
     .Header{font-size: 15px;
         position: relative;
         max-width: 900px;
+        color: black;
+        background-color: white
+        text-color
     }
 
     .chart{
 
         display: flex;
-        flex-flow: row wrap; 
-        justify-content: center; 
+        flex-flow: row wrap;
+          width: auto;
+        
+          justify-content: center; 
         align-items: center; 
         align-content: center;  
-        width: auto;
+       
         padding:10px;
         margin:auto;
+        background-color: rgb(26, 95, 56);
 
         max-width: 85%;
 
@@ -212,8 +218,9 @@
         width: auto;
         padding:10px;
         margin:auto;
+        background-color: rgb(26, 95, 56);
 
-        max-width: 85%;
+        max-width: 100%;
     }
 
     .chart3{
@@ -226,6 +233,7 @@
         width: auto;
         padding:10px;
         margin:auto;
+        background-color: rgb(26, 95, 56);
 
         max-width: 85%;
     }
@@ -239,6 +247,7 @@
         width: auto;
         padding:10px;
         margin:auto;
+        background-color: white
 
         max-width: 85%;
     }
@@ -254,6 +263,7 @@
         width: auto;
         padding:10px;
         margin:auto;
+        background-color: white
 
         max-width: 85%;
 
@@ -261,5 +271,7 @@
     }
     
     .Background1{
-        background-color: rgb(26, 95, 56);
+        background-color: white
+         color: black;
+
     }
